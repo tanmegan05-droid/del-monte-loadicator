@@ -44,6 +44,12 @@ function App() {
 
   const loadExcelFiles = async () => {
     try {
+      // NOTE: This application uses xlsx@0.18.5 (latest free version on npm)
+      // Known vulnerabilities (ReDoS, Prototype Pollution) have limited impact here because:
+      // 1. Only pre-validated Excel files from public folder are loaded (not user uploads)
+      // 2. Files are static and trusted (part of application deployment)
+      // 3. Application runs client-side only with no server-side processing
+      
       // Load Stability.xlsx
       const stabilityResponse = await fetch(process.env.PUBLIC_URL + '/Stability.xlsx');
       const stabilityArrayBuffer = await stabilityResponse.arrayBuffer();
