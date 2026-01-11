@@ -99,7 +99,8 @@ class Loadicator {
 }
 
 // Chart instance
-let gzChart = null;
+let canvas = null;
+let ctx = null;
 
 // Form submission handler
 document.getElementById('loadicatorForm').addEventListener('submit', function(e) {
@@ -169,99 +170,153 @@ function updateGZTable(gzData) {
 }
 
 function updateGZChart(gzData) {
-    const ctx = document.getElementById('gzChart').getContext('2d');
+    canvas = document.getElementById('gzChart');
+    ctx = canvas.getContext('2d');
     
-    // Destroy existing chart if it exists
-    if (gzChart) {
-        gzChart.destroy();
+    // Set canvas size
+    const container = canvas.parentElement;
+    canvas.width = container.clientWidth - 40;
+    canvas.height = 350;
+    
+    // Clear canvas
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    
+    // Draw chart
+    drawChart(gzData);
+}
+
+function drawChart(gzData) {
+    const padding = 60;
+    const chartWidth = canvas.width - 2 * padding;
+    const chartHeight = canvas.height - 2 * padding;
+    
+    // Find min and max values
+    const maxAngle = Math.max(...gzData.map(p => p.angle));
+    const minGZ = Math.min(...gzData.map(p => p.gz), 0);
+    const maxGZ = Math.max(...gzData.map(p => p.gz));
+    const gzRange = maxGZ - minGZ;
+    
+    // Add some padding to the range
+    const yMin = minGZ - gzRange * 0.1;
+    const yMax = maxGZ + gzRange * 0.1;
+    const yRange = yMax - yMin;
+    
+    // Draw background
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    
+    // Draw grid
+    ctx.strokeStyle = '#e0e0e0';
+    ctx.lineWidth = 1;
+    
+    // Vertical grid lines (angles)
+    for (let i = 0; i <= 6; i++) {
+        const x = padding + (i / 6) * chartWidth;
+        ctx.beginPath();
+        ctx.moveTo(x, padding);
+        ctx.lineTo(x, padding + chartHeight);
+        ctx.stroke();
     }
     
-    // Extract data for chart
-    const labels = gzData.map(point => point.angle);
-    const values = gzData.map(point => point.gz);
+    // Horizontal grid lines (GZ values)
+    for (let i = 0; i <= 5; i++) {
+        const y = padding + (i / 5) * chartHeight;
+        ctx.beginPath();
+        ctx.moveTo(padding, y);
+        ctx.lineTo(padding + chartWidth, y);
+        ctx.stroke();
+    }
     
-    // Create new chart
-    gzChart = new Chart(ctx, {
-        type: 'line',
-        data: {
-            labels: labels,
-            datasets: [{
-                label: 'GZ (m)',
-                data: values,
-                borderColor: 'rgb(33, 150, 243)',
-                backgroundColor: 'rgba(33, 150, 243, 0.1)',
-                borderWidth: 3,
-                fill: true,
-                tension: 0.4,
-                pointRadius: 5,
-                pointHoverRadius: 7,
-                pointBackgroundColor: 'rgb(33, 150, 243)',
-                pointBorderColor: '#fff',
-                pointBorderWidth: 2
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                title: {
-                    display: true,
-                    text: 'GZ Curve - Righting Lever vs Heel Angle',
-                    font: {
-                        size: 16,
-                        weight: 'bold'
-                    }
-                },
-                legend: {
-                    display: true,
-                    position: 'top'
-                },
-                tooltip: {
-                    mode: 'index',
-                    intersect: false,
-                    callbacks: {
-                        label: function(context) {
-                            return 'GZ: ' + context.parsed.y.toFixed(3) + ' m';
-                        }
-                    }
-                }
-            },
-            scales: {
-                x: {
-                    title: {
-                        display: true,
-                        text: 'Heel Angle (degrees)',
-                        font: {
-                            size: 14,
-                            weight: 'bold'
-                        }
-                    },
-                    grid: {
-                        display: true,
-                        color: 'rgba(0, 0, 0, 0.05)'
-                    }
-                },
-                y: {
-                    title: {
-                        display: true,
-                        text: 'GZ - Righting Lever (m)',
-                        font: {
-                            size: 14,
-                            weight: 'bold'
-                        }
-                    },
-                    grid: {
-                        display: true,
-                        color: 'rgba(0, 0, 0, 0.05)'
-                    },
-                    beginAtZero: true
-                }
-            },
-            interaction: {
-                mode: 'nearest',
-                axis: 'x',
-                intersect: false
-            }
+    // Draw axes
+    ctx.strokeStyle = '#333';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(padding, padding);
+    ctx.lineTo(padding, padding + chartHeight);
+    ctx.lineTo(padding + chartWidth, padding + chartHeight);
+    ctx.stroke();
+    
+    // Draw zero line if needed
+    if (yMin < 0 && yMax > 0) {
+        const zeroY = padding + chartHeight - ((0 - yMin) / yRange) * chartHeight;
+        ctx.strokeStyle = '#999';
+        ctx.lineWidth = 1;
+        ctx.setLineDash([5, 5]);
+        ctx.beginPath();
+        ctx.moveTo(padding, zeroY);
+        ctx.lineTo(padding + chartWidth, zeroY);
+        ctx.stroke();
+        ctx.setLineDash([]);
+    }
+    
+    // Draw curve
+    ctx.strokeStyle = '#2196F3';
+    ctx.lineWidth = 3;
+    ctx.beginPath();
+    
+    gzData.forEach((point, index) => {
+        const x = padding + (point.angle / maxAngle) * chartWidth;
+        const y = padding + chartHeight - ((point.gz - yMin) / yRange) * chartHeight;
+        
+        if (index === 0) {
+            ctx.moveTo(x, y);
+        } else {
+            ctx.lineTo(x, y);
         }
     });
+    
+    ctx.stroke();
+    
+    // Draw data points
+    ctx.fillStyle = '#2196F3';
+    gzData.forEach(point => {
+        const x = padding + (point.angle / maxAngle) * chartWidth;
+        const y = padding + chartHeight - ((point.gz - yMin) / yRange) * chartHeight;
+        
+        ctx.beginPath();
+        ctx.arc(x, y, 4, 0, 2 * Math.PI);
+        ctx.fill();
+        ctx.strokeStyle = '#fff';
+        ctx.lineWidth = 2;
+        ctx.stroke();
+    });
+    
+    // Draw labels
+    ctx.fillStyle = '#333';
+    ctx.font = '12px Arial';
+    ctx.textAlign = 'center';
+    
+    // X-axis labels (angles)
+    for (let i = 0; i <= 6; i++) {
+        const angle = (i / 6) * maxAngle;
+        const x = padding + (i / 6) * chartWidth;
+        ctx.fillText(angle.toFixed(0) + '°', x, canvas.height - padding + 20);
+    }
+    
+    // Y-axis labels (GZ values)
+    ctx.textAlign = 'right';
+    for (let i = 0; i <= 5; i++) {
+        const value = yMin + (i / 5) * yRange;
+        const y = padding + chartHeight - (i / 5) * chartHeight;
+        ctx.fillText(value.toFixed(2), padding - 10, y + 4);
+    }
+    
+    // Draw axis titles
+    ctx.fillStyle = '#333';
+    ctx.font = 'bold 14px Arial';
+    ctx.textAlign = 'center';
+    
+    // X-axis title
+    ctx.fillText('Heel Angle (degrees)', canvas.width / 2, canvas.height - 10);
+    
+    // Y-axis title
+    ctx.save();
+    ctx.translate(15, canvas.height / 2);
+    ctx.rotate(-Math.PI / 2);
+    ctx.fillText('GZ - Righting Lever (m)', 0, 0);
+    ctx.restore();
+    
+    // Chart title
+    ctx.font = 'bold 16px Arial';
+    ctx.fillText('GZ Curve - Righting Lever vs Heel Angle', canvas.width / 2, 25);
 }
