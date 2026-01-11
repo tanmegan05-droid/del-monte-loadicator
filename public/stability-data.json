@@ -1,0 +1,4818 @@
+[
+  {
+    "draft": 2.0,
+    "displacement": 10497.0
+  },
+  {
+    "draft": 2.01,
+    "displacement": 10553.0
+  },
+  {
+    "draft": 2.02,
+    "displacement": 10609.0
+  },
+  {
+    "draft": 2.03,
+    "displacement": 10666.0
+  },
+  {
+    "draft": 2.04,
+    "displacement": 10722.0
+  },
+  {
+    "draft": 2.05,
+    "displacement": 10778.0
+  },
+  {
+    "draft": 2.06,
+    "displacement": 10834.0
+  },
+  {
+    "draft": 2.07,
+    "displacement": 10891.0
+  },
+  {
+    "draft": 2.08,
+    "displacement": 10947.0
+  },
+  {
+    "draft": 2.09,
+    "displacement": 11003.0
+  },
+  {
+    "draft": 2.1,
+    "displacement": 11060.0
+  },
+  {
+    "draft": 2.11,
+    "displacement": 11116.0
+  },
+  {
+    "draft": 2.12,
+    "displacement": 11172.0
+  },
+  {
+    "draft": 2.13,
+    "displacement": 11229.0
+  },
+  {
+    "draft": 2.14,
+    "displacement": 11285.0
+  },
+  {
+    "draft": 2.15,
+    "displacement": 11341.0
+  },
+  {
+    "draft": 2.16,
+    "displacement": 11398.0
+  },
+  {
+    "draft": 2.17,
+    "displacement": 11454.0
+  },
+  {
+    "draft": 2.18,
+    "displacement": 11510.0
+  },
+  {
+    "draft": 2.19,
+    "displacement": 11567.0
+  },
+  {
+    "draft": 2.2,
+    "displacement": 11623.0
+  },
+  {
+    "draft": 2.21,
+    "displacement": 11680.0
+  },
+  {
+    "draft": 2.22,
+    "displacement": 11736.0
+  },
+  {
+    "draft": 2.23,
+    "displacement": 11792.0
+  },
+  {
+    "draft": 2.24,
+    "displacement": 11849.0
+  },
+  {
+    "draft": 2.25,
+    "displacement": 11905.0
+  },
+  {
+    "draft": 2.26,
+    "displacement": 11962.0
+  },
+  {
+    "draft": 2.27,
+    "displacement": 12018.0
+  },
+  {
+    "draft": 2.28,
+    "displacement": 12075.0
+  },
+  {
+    "draft": 2.29,
+    "displacement": 12131.0
+  },
+  {
+    "draft": 2.3,
+    "displacement": 12188.0
+  },
+  {
+    "draft": 2.31,
+    "displacement": 12244.0
+  },
+  {
+    "draft": 2.32,
+    "displacement": 12301.0
+  },
+  {
+    "draft": 2.33,
+    "displacement": 12357.0
+  },
+  {
+    "draft": 2.34,
+    "displacement": 12414.0
+  },
+  {
+    "draft": 2.35,
+    "displacement": 12471.0
+  },
+  {
+    "draft": 2.36,
+    "displacement": 12527.0
+  },
+  {
+    "draft": 2.37,
+    "displacement": 12584.0
+  },
+  {
+    "draft": 2.38,
+    "displacement": 12640.0
+  },
+  {
+    "draft": 2.39,
+    "displacement": 12697.0
+  },
+  {
+    "draft": 2.4,
+    "displacement": 12754.0
+  },
+  {
+    "draft": 2.41,
+    "displacement": 12810.0
+  },
+  {
+    "draft": 2.42,
+    "displacement": 12867.0
+  },
+  {
+    "draft": 2.43,
+    "displacement": 12924.0
+  },
+  {
+    "draft": 2.44,
+    "displacement": 12980.0
+  },
+  {
+    "draft": 2.45,
+    "displacement": 13037.0
+  },
+  {
+    "draft": 2.46,
+    "displacement": 13094.0
+  },
+  {
+    "draft": 2.47,
+    "displacement": 13150.0
+  },
+  {
+    "draft": 2.48,
+    "displacement": 13207.0
+  },
+  {
+    "draft": 2.49,
+    "displacement": 13264.0
+  },
+  {
+    "draft": 2.5,
+    "displacement": 13320.0
+  },
+  {
+    "draft": 2.51,
+    "displacement": 13377.0
+  },
+  {
+    "draft": 2.52,
+    "displacement": 13434.0
+  },
+  {
+    "draft": 2.53,
+    "displacement": 13491.0
+  },
+  {
+    "draft": 2.54,
+    "displacement": 13547.0
+  },
+  {
+    "draft": 2.55,
+    "displacement": 13604.0
+  },
+  {
+    "draft": 2.56,
+    "displacement": 13661.0
+  },
+  {
+    "draft": 2.57,
+    "displacement": 13718.0
+  },
+  {
+    "draft": 2.58,
+    "displacement": 13775.0
+  },
+  {
+    "draft": 2.59,
+    "displacement": 13831.0
+  },
+  {
+    "draft": 2.6,
+    "displacement": 13888.0
+  },
+  {
+    "draft": 2.61,
+    "displacement": 13945.0
+  },
+  {
+    "draft": 2.62,
+    "displacement": 14002.0
+  },
+  {
+    "draft": 2.63,
+    "displacement": 14059.0
+  },
+  {
+    "draft": 2.64,
+    "displacement": 14116.0
+  },
+  {
+    "draft": 2.65,
+    "displacement": 14173.0
+  },
+  {
+    "draft": 2.66,
+    "displacement": 14229.0
+  },
+  {
+    "draft": 2.67,
+    "displacement": 14286.0
+  },
+  {
+    "draft": 2.68,
+    "displacement": 14343.0
+  },
+  {
+    "draft": 2.69,
+    "displacement": 14400.0
+  },
+  {
+    "draft": 2.7,
+    "displacement": 14457.0
+  },
+  {
+    "draft": 2.71,
+    "displacement": 14514.0
+  },
+  {
+    "draft": 2.72,
+    "displacement": 14571.0
+  },
+  {
+    "draft": 2.73,
+    "displacement": 14628.0
+  },
+  {
+    "draft": 2.74,
+    "displacement": 14685.0
+  },
+  {
+    "draft": 2.75,
+    "displacement": 14742.0
+  },
+  {
+    "draft": 2.76,
+    "displacement": 14799.0
+  },
+  {
+    "draft": 2.77,
+    "displacement": 14856.0
+  },
+  {
+    "draft": 2.78,
+    "displacement": 14913.0
+  },
+  {
+    "draft": 2.79,
+    "displacement": 14970.0
+  },
+  {
+    "draft": 2.8,
+    "displacement": 15027.0
+  },
+  {
+    "draft": 2.81,
+    "displacement": 15084.0
+  },
+  {
+    "draft": 2.82,
+    "displacement": 15141.0
+  },
+  {
+    "draft": 2.83,
+    "displacement": 15198.0
+  },
+  {
+    "draft": 2.84,
+    "displacement": 15255.0
+  },
+  {
+    "draft": 2.85,
+    "displacement": 15312.0
+  },
+  {
+    "draft": 2.86,
+    "displacement": 15369.0
+  },
+  {
+    "draft": 2.87,
+    "displacement": 15427.0
+  },
+  {
+    "draft": 2.88,
+    "displacement": 15484.0
+  },
+  {
+    "draft": 2.89,
+    "displacement": 15541.0
+  },
+  {
+    "draft": 2.9,
+    "displacement": 15598.0
+  },
+  {
+    "draft": 2.91,
+    "displacement": 15655.0
+  },
+  {
+    "draft": 2.92,
+    "displacement": 15712.0
+  },
+  {
+    "draft": 2.93,
+    "displacement": 15769.0
+  },
+  {
+    "draft": 2.94,
+    "displacement": 15827.0
+  },
+  {
+    "draft": 2.95,
+    "displacement": 15884.0
+  },
+  {
+    "draft": 2.96,
+    "displacement": 15941.0
+  },
+  {
+    "draft": 2.97,
+    "displacement": 15998.0
+  },
+  {
+    "draft": 2.98,
+    "displacement": 16056.0
+  },
+  {
+    "draft": 2.99,
+    "displacement": 16113.0
+  },
+  {
+    "draft": 3.0,
+    "displacement": 16170.0
+  },
+  {
+    "draft": 3.01,
+    "displacement": 16227.0
+  },
+  {
+    "draft": 3.02,
+    "displacement": 16285.0
+  },
+  {
+    "draft": 3.03,
+    "displacement": 16342.0
+  },
+  {
+    "draft": 3.04,
+    "displacement": 16399.0
+  },
+  {
+    "draft": 3.05,
+    "displacement": 16456.0
+  },
+  {
+    "draft": 3.06,
+    "displacement": 16514.0
+  },
+  {
+    "draft": 3.07,
+    "displacement": 16571.0
+  },
+  {
+    "draft": 3.08,
+    "displacement": 16628.0
+  },
+  {
+    "draft": 3.09,
+    "displacement": 16686.0
+  },
+  {
+    "draft": 3.1,
+    "displacement": 16743.0
+  },
+  {
+    "draft": 3.11,
+    "displacement": 16800.0
+  },
+  {
+    "draft": 3.12,
+    "displacement": 16858.0
+  },
+  {
+    "draft": 3.13,
+    "displacement": 16915.0
+  },
+  {
+    "draft": 3.14,
+    "displacement": 16973.0
+  },
+  {
+    "draft": 3.15,
+    "displacement": 17030.0
+  },
+  {
+    "draft": 3.16,
+    "displacement": 17087.0
+  },
+  {
+    "draft": 3.17,
+    "displacement": 17145.0
+  },
+  {
+    "draft": 3.18,
+    "displacement": 17202.0
+  },
+  {
+    "draft": 3.19,
+    "displacement": 17260.0
+  },
+  {
+    "draft": 3.2,
+    "displacement": 17317.0
+  },
+  {
+    "draft": 3.21,
+    "displacement": 17375.0
+  },
+  {
+    "draft": 3.22,
+    "displacement": 17432.0
+  },
+  {
+    "draft": 3.23,
+    "displacement": 17490.0
+  },
+  {
+    "draft": 3.24,
+    "displacement": 17547.0
+  },
+  {
+    "draft": 3.25,
+    "displacement": 17605.0
+  },
+  {
+    "draft": 3.26,
+    "displacement": 17662.0
+  },
+  {
+    "draft": 3.27,
+    "displacement": 17720.0
+  },
+  {
+    "draft": 3.28,
+    "displacement": 17777.0
+  },
+  {
+    "draft": 3.29,
+    "displacement": 17835.0
+  },
+  {
+    "draft": 3.3,
+    "displacement": 17892.0
+  },
+  {
+    "draft": 3.31,
+    "displacement": 17950.0
+  },
+  {
+    "draft": 3.32,
+    "displacement": 18008.0
+  },
+  {
+    "draft": 3.33,
+    "displacement": 18065.0
+  },
+  {
+    "draft": 3.34,
+    "displacement": 18123.0
+  },
+  {
+    "draft": 3.35,
+    "displacement": 18180.0
+  },
+  {
+    "draft": 3.36,
+    "displacement": 18238.0
+  },
+  {
+    "draft": 3.37,
+    "displacement": 18296.0
+  },
+  {
+    "draft": 3.38,
+    "displacement": 18353.0
+  },
+  {
+    "draft": 3.39,
+    "displacement": 18411.0
+  },
+  {
+    "draft": 3.4,
+    "displacement": 18469.0
+  },
+  {
+    "draft": 3.41,
+    "displacement": 18526.0
+  },
+  {
+    "draft": 3.42,
+    "displacement": 18584.0
+  },
+  {
+    "draft": 3.43,
+    "displacement": 18642.0
+  },
+  {
+    "draft": 3.44,
+    "displacement": 18699.0
+  },
+  {
+    "draft": 3.45,
+    "displacement": 18757.0
+  },
+  {
+    "draft": 3.46,
+    "displacement": 18815.0
+  },
+  {
+    "draft": 3.47,
+    "displacement": 18873.0
+  },
+  {
+    "draft": 3.48,
+    "displacement": 18930.0
+  },
+  {
+    "draft": 3.49,
+    "displacement": 18988.0
+  },
+  {
+    "draft": 3.5,
+    "displacement": 19046.0
+  },
+  {
+    "draft": 3.51,
+    "displacement": 19104.0
+  },
+  {
+    "draft": 3.52,
+    "displacement": 19161.0
+  },
+  {
+    "draft": 3.53,
+    "displacement": 19219.0
+  },
+  {
+    "draft": 3.54,
+    "displacement": 19277.0
+  },
+  {
+    "draft": 3.55,
+    "displacement": 19335.0
+  },
+  {
+    "draft": 3.56,
+    "displacement": 19393.0
+  },
+  {
+    "draft": 3.57,
+    "displacement": 19451.0
+  },
+  {
+    "draft": 3.58,
+    "displacement": 19508.0
+  },
+  {
+    "draft": 3.59,
+    "displacement": 19566.0
+  },
+  {
+    "draft": 3.6,
+    "displacement": 19624.0
+  },
+  {
+    "draft": 3.61,
+    "displacement": 19682.0
+  },
+  {
+    "draft": 3.62,
+    "displacement": 19740.0
+  },
+  {
+    "draft": 3.63,
+    "displacement": 19798.0
+  },
+  {
+    "draft": 3.64,
+    "displacement": 19856.0
+  },
+  {
+    "draft": 3.65,
+    "displacement": 19914.0
+  },
+  {
+    "draft": 3.66,
+    "displacement": 19972.0
+  },
+  {
+    "draft": 3.67,
+    "displacement": 20030.0
+  },
+  {
+    "draft": 3.68,
+    "displacement": 20885.0
+  },
+  {
+    "draft": 3.69,
+    "displacement": 20146.0
+  },
+  {
+    "draft": 3.7,
+    "displacement": 20204.0
+  },
+  {
+    "draft": 3.71,
+    "displacement": 20262.0
+  },
+  {
+    "draft": 3.72,
+    "displacement": 20320.0
+  },
+  {
+    "draft": 3.73,
+    "displacement": 20378.0
+  },
+  {
+    "draft": 3.74,
+    "displacement": 20436.0
+  },
+  {
+    "draft": 3.75,
+    "displacement": 20494.0
+  },
+  {
+    "draft": 3.76,
+    "displacement": 20552.0
+  },
+  {
+    "draft": 3.77,
+    "displacement": 20610.0
+  },
+  {
+    "draft": 3.78,
+    "displacement": 20668.0
+  },
+  {
+    "draft": 3.79,
+    "displacement": 20726.0
+  },
+  {
+    "draft": 3.8,
+    "displacement": 20784.0
+  },
+  {
+    "draft": 3.81,
+    "displacement": 20842.0
+  },
+  {
+    "draft": 3.82,
+    "displacement": 20900.0
+  },
+  {
+    "draft": 3.83,
+    "displacement": 20958.0
+  },
+  {
+    "draft": 3.84,
+    "displacement": 21017.0
+  },
+  {
+    "draft": 3.85,
+    "displacement": 21075.0
+  },
+  {
+    "draft": 3.86,
+    "displacement": 21133.0
+  },
+  {
+    "draft": 3.87,
+    "displacement": 21191.0
+  },
+  {
+    "draft": 3.88,
+    "displacement": 21249.0
+  },
+  {
+    "draft": 3.89,
+    "displacement": 21307.0
+  },
+  {
+    "draft": 3.9,
+    "displacement": 21366.0
+  },
+  {
+    "draft": 3.91,
+    "displacement": 21424.0
+  },
+  {
+    "draft": 3.92,
+    "displacement": 21482.0
+  },
+  {
+    "draft": 3.93,
+    "displacement": 21540.0
+  },
+  {
+    "draft": 3.94,
+    "displacement": 21598.0
+  },
+  {
+    "draft": 3.95,
+    "displacement": 21657.0
+  },
+  {
+    "draft": 3.96,
+    "displacement": 21715.0
+  },
+  {
+    "draft": 3.97,
+    "displacement": 21773.0
+  },
+  {
+    "draft": 3.98,
+    "displacement": 21831.0
+  },
+  {
+    "draft": 3.99,
+    "displacement": 21890.0
+  },
+  {
+    "draft": 4.0,
+    "displacement": 21948.0
+  },
+  {
+    "draft": 4.01,
+    "displacement": 2206.0
+  },
+  {
+    "draft": 4.02,
+    "displacement": 22065.0
+  },
+  {
+    "draft": 4.03,
+    "displacement": 22123.0
+  },
+  {
+    "draft": 4.04,
+    "displacement": 22181.0
+  },
+  {
+    "draft": 4.05,
+    "displacement": 22240.0
+  },
+  {
+    "draft": 4.06,
+    "displacement": 22298.0
+  },
+  {
+    "draft": 4.07,
+    "displacement": 22356.0
+  },
+  {
+    "draft": 4.08,
+    "displacement": 22415.0
+  },
+  {
+    "draft": 4.09,
+    "displacement": 22473.0
+  },
+  {
+    "draft": 4.1,
+    "displacement": 22532.0
+  },
+  {
+    "draft": 4.11,
+    "displacement": 22590.0
+  },
+  {
+    "draft": 4.12,
+    "displacement": 22648.0
+  },
+  {
+    "draft": 4.13,
+    "displacement": 22707.0
+  },
+  {
+    "draft": 4.14,
+    "displacement": 22765.0
+  },
+  {
+    "draft": 4.15,
+    "displacement": 22824.0
+  },
+  {
+    "draft": 4.16,
+    "displacement": 22882.0
+  },
+  {
+    "draft": 4.17,
+    "displacement": 22941.0
+  },
+  {
+    "draft": 4.18,
+    "displacement": 2299.0
+  },
+  {
+    "draft": 4.19,
+    "displacement": 23058.0
+  },
+  {
+    "draft": 4.2,
+    "displacement": 23116.0
+  },
+  {
+    "draft": 4.21,
+    "displacement": 23175.0
+  },
+  {
+    "draft": 4.22,
+    "displacement": 23233.0
+  },
+  {
+    "draft": 4.23,
+    "displacement": 23292.0
+  },
+  {
+    "draft": 4.24,
+    "displacement": 23350.0
+  },
+  {
+    "draft": 4.25,
+    "displacement": 23409.0
+  },
+  {
+    "draft": 4.26,
+    "displacement": 23468.0
+  },
+  {
+    "draft": 4.27,
+    "displacement": 23526.0
+  },
+  {
+    "draft": 4.28,
+    "displacement": 23585.0
+  },
+  {
+    "draft": 4.29,
+    "displacement": 23643.0
+  },
+  {
+    "draft": 4.3,
+    "displacement": 23702.0
+  },
+  {
+    "draft": 4.31,
+    "displacement": 23761.0
+  },
+  {
+    "draft": 4.32,
+    "displacement": 23819.0
+  },
+  {
+    "draft": 4.33,
+    "displacement": 23878.0
+  },
+  {
+    "draft": 4.34,
+    "displacement": 23936.0
+  },
+  {
+    "draft": 4.35,
+    "displacement": 23995.0
+  },
+  {
+    "draft": 4.36,
+    "displacement": 24054.0
+  },
+  {
+    "draft": 4.37,
+    "displacement": 24113.0
+  },
+  {
+    "draft": 4.38,
+    "displacement": 24171.0
+  },
+  {
+    "draft": 4.39,
+    "displacement": 24230.0
+  },
+  {
+    "draft": 4.4,
+    "displacement": 24289.0
+  },
+  {
+    "draft": 4.41,
+    "displacement": 24347.0
+  },
+  {
+    "draft": 4.42,
+    "displacement": 24406.0
+  },
+  {
+    "draft": 4.43,
+    "displacement": 24465.0
+  },
+  {
+    "draft": 4.44,
+    "displacement": 24524.0
+  },
+  {
+    "draft": 4.45,
+    "displacement": 24582.0
+  },
+  {
+    "draft": 4.46,
+    "displacement": 24641.0
+  },
+  {
+    "draft": 4.47,
+    "displacement": 24700.0
+  },
+  {
+    "draft": 4.48,
+    "displacement": 24759.0
+  },
+  {
+    "draft": 4.49,
+    "displacement": 24818.0
+  },
+  {
+    "draft": 4.5,
+    "displacement": 24876.0
+  },
+  {
+    "draft": 4.51,
+    "displacement": 24935.0
+  },
+  {
+    "draft": 4.52,
+    "displacement": 24994.0
+  },
+  {
+    "draft": 4.53,
+    "displacement": 25053.0
+  },
+  {
+    "draft": 4.54,
+    "displacement": 25112.0
+  },
+  {
+    "draft": 4.55,
+    "displacement": 25171.0
+  },
+  {
+    "draft": 4.56,
+    "displacement": 25230.0
+  },
+  {
+    "draft": 4.57,
+    "displacement": 25289.0
+  },
+  {
+    "draft": 4.58,
+    "displacement": 25347.0
+  },
+  {
+    "draft": 4.59,
+    "displacement": 25406.0
+  },
+  {
+    "draft": 4.6,
+    "displacement": 25465.0
+  },
+  {
+    "draft": 4.61,
+    "displacement": 25524.0
+  },
+  {
+    "draft": 4.62,
+    "displacement": 25583.0
+  },
+  {
+    "draft": 4.63,
+    "displacement": 25642.0
+  },
+  {
+    "draft": 4.64,
+    "displacement": 25701.0
+  },
+  {
+    "draft": 4.65,
+    "displacement": 25760.0
+  },
+  {
+    "draft": 4.66,
+    "displacement": 25819.0
+  },
+  {
+    "draft": 4.67,
+    "displacement": 25878.0
+  },
+  {
+    "draft": 4.68,
+    "displacement": 25937.0
+  },
+  {
+    "draft": 4.69,
+    "displacement": 25996.0
+  },
+  {
+    "draft": 4.7,
+    "displacement": 26055.0
+  },
+  {
+    "draft": 4.71,
+    "displacement": 26114.0
+  },
+  {
+    "draft": 4.72,
+    "displacement": 26173.0
+  },
+  {
+    "draft": 4.73,
+    "displacement": 26232.0
+  },
+  {
+    "draft": 4.74,
+    "displacement": 26291.0
+  },
+  {
+    "draft": 4.75,
+    "displacement": 26350.0
+  },
+  {
+    "draft": 4.76,
+    "displacement": 26410.0
+  },
+  {
+    "draft": 4.77,
+    "displacement": 26469.0
+  },
+  {
+    "draft": 4.78,
+    "displacement": 26528.0
+  },
+  {
+    "draft": 4.79,
+    "displacement": 26587.0
+  },
+  {
+    "draft": 4.8,
+    "displacement": 26646.0
+  },
+  {
+    "draft": 4.81,
+    "displacement": 26705.0
+  },
+  {
+    "draft": 4.82,
+    "displacement": 26764.0
+  },
+  {
+    "draft": 4.83,
+    "displacement": 26824.0
+  },
+  {
+    "draft": 4.84,
+    "displacement": 26883.0
+  },
+  {
+    "draft": 4.85,
+    "displacement": 26942.0
+  },
+  {
+    "draft": 4.86,
+    "displacement": 27001.0
+  },
+  {
+    "draft": 4.87,
+    "displacement": 27060.0
+  },
+  {
+    "draft": 4.88,
+    "displacement": 27120.0
+  },
+  {
+    "draft": 4.89,
+    "displacement": 27179.0
+  },
+  {
+    "draft": 4.9,
+    "displacement": 27238.0
+  },
+  {
+    "draft": 4.91,
+    "displacement": 27297.0
+  },
+  {
+    "draft": 4.92,
+    "displacement": 27357.0
+  },
+  {
+    "draft": 4.93,
+    "displacement": 27416.0
+  },
+  {
+    "draft": 4.94,
+    "displacement": 27475.0
+  },
+  {
+    "draft": 4.95,
+    "displacement": 27534.0
+  },
+  {
+    "draft": 4.96,
+    "displacement": 27594.0
+  },
+  {
+    "draft": 4.97,
+    "displacement": 27653.0
+  },
+  {
+    "draft": 4.98,
+    "displacement": 27712.0
+  },
+  {
+    "draft": 4.99,
+    "displacement": 27772.0
+  },
+  {
+    "draft": 5.0,
+    "displacement": 27831.0
+  },
+  {
+    "draft": 5.01,
+    "displacement": 27891.0
+  },
+  {
+    "draft": 5.02,
+    "displacement": 27951.0
+  },
+  {
+    "draft": 5.03,
+    "displacement": 28011.0
+  },
+  {
+    "draft": 5.04,
+    "displacement": 28071.0
+  },
+  {
+    "draft": 5.05,
+    "displacement": 28130.0
+  },
+  {
+    "draft": 5.06,
+    "displacement": 28190.0
+  },
+  {
+    "draft": 5.07,
+    "displacement": 28250.0
+  },
+  {
+    "draft": 5.08,
+    "displacement": 28310.0
+  },
+  {
+    "draft": 5.09,
+    "displacement": 28370.0
+  },
+  {
+    "draft": 5.1,
+    "displacement": 28430.0
+  },
+  {
+    "draft": 5.11,
+    "displacement": 28490.0
+  },
+  {
+    "draft": 5.12,
+    "displacement": 28550.0
+  },
+  {
+    "draft": 5.13,
+    "displacement": 28609.0
+  },
+  {
+    "draft": 5.14,
+    "displacement": 28669.0
+  },
+  {
+    "draft": 5.15,
+    "displacement": 28729.0
+  },
+  {
+    "draft": 5.16,
+    "displacement": 28789.0
+  },
+  {
+    "draft": 5.17,
+    "displacement": 28849.0
+  },
+  {
+    "draft": 5.18,
+    "displacement": 28900.0
+  },
+  {
+    "draft": 5.19,
+    "displacement": 28969.0
+  },
+  {
+    "draft": 5.2,
+    "displacement": 29028.0
+  },
+  {
+    "draft": 5.21,
+    "displacement": 29088.0
+  },
+  {
+    "draft": 5.22,
+    "displacement": 29148.0
+  },
+  {
+    "draft": 5.23,
+    "displacement": 29208.0
+  },
+  {
+    "draft": 5.24,
+    "displacement": 29269.0
+  },
+  {
+    "draft": 5.25,
+    "displacement": 29328.0
+  },
+  {
+    "draft": 5.26,
+    "displacement": 29388.0
+  },
+  {
+    "draft": 5.27,
+    "displacement": 29448.0
+  },
+  {
+    "draft": 5.28,
+    "displacement": 2950.0
+  },
+  {
+    "draft": 5.29,
+    "displacement": 29567.0
+  },
+  {
+    "draft": 5.3,
+    "displacement": 29627.0
+  },
+  {
+    "draft": 5.31,
+    "displacement": 29687.0
+  },
+  {
+    "draft": 5.32,
+    "displacement": 29747.0
+  },
+  {
+    "draft": 5.33,
+    "displacement": 29807.0
+  },
+  {
+    "draft": 5.34,
+    "displacement": 29867.0
+  },
+  {
+    "draft": 5.35,
+    "displacement": 29927.0
+  },
+  {
+    "draft": 5.36,
+    "displacement": 29986.0
+  },
+  {
+    "draft": 5.37,
+    "displacement": 30046.0
+  },
+  {
+    "draft": 5.38,
+    "displacement": 30106.0
+  },
+  {
+    "draft": 5.39,
+    "displacement": 30166.0
+  },
+  {
+    "draft": 5.4,
+    "displacement": 30226.0
+  },
+  {
+    "draft": 5.41,
+    "displacement": 30286.0
+  },
+  {
+    "draft": 5.42,
+    "displacement": 30346.0
+  },
+  {
+    "draft": 5.43,
+    "displacement": 30405.0
+  },
+  {
+    "draft": 5.44,
+    "displacement": 30465.0
+  },
+  {
+    "draft": 5.45,
+    "displacement": 30525.0
+  },
+  {
+    "draft": 5.46,
+    "displacement": 30585.0
+  },
+  {
+    "draft": 5.47,
+    "displacement": 30645.0
+  },
+  {
+    "draft": 5.48,
+    "displacement": 30705.0
+  },
+  {
+    "draft": 5.49,
+    "displacement": 30765.0
+  },
+  {
+    "draft": 5.5,
+    "displacement": 30825.0
+  },
+  {
+    "draft": 5.51,
+    "displacement": 30884.0
+  },
+  {
+    "draft": 5.52,
+    "displacement": 30944.0
+  },
+  {
+    "draft": 5.53,
+    "displacement": 31004.0
+  },
+  {
+    "draft": 5.54,
+    "displacement": 31064.0
+  },
+  {
+    "draft": 5.55,
+    "displacement": 31124.0
+  },
+  {
+    "draft": 5.56,
+    "displacement": 31184.0
+  },
+  {
+    "draft": 5.57,
+    "displacement": 31244.0
+  },
+  {
+    "draft": 5.58,
+    "displacement": 31304.0
+  },
+  {
+    "draft": 5.59,
+    "displacement": 31363.0
+  },
+  {
+    "draft": 5.6,
+    "displacement": 31423.0
+  },
+  {
+    "draft": 5.61,
+    "displacement": 31483.0
+  },
+  {
+    "draft": 5.62,
+    "displacement": 31543.0
+  },
+  {
+    "draft": 5.63,
+    "displacement": 31603.0
+  },
+  {
+    "draft": 5.64,
+    "displacement": 31663.0
+  },
+  {
+    "draft": 5.65,
+    "displacement": 31723.0
+  },
+  {
+    "draft": 5.66,
+    "displacement": 31782.0
+  },
+  {
+    "draft": 5.67,
+    "displacement": 31842.0
+  },
+  {
+    "draft": 5.68,
+    "displacement": 31902.0
+  },
+  {
+    "draft": 5.69,
+    "displacement": 31962.0
+  },
+  {
+    "draft": 5.7,
+    "displacement": 32022.0
+  },
+  {
+    "draft": 5.71,
+    "displacement": 32082.0
+  },
+  {
+    "draft": 5.72,
+    "displacement": 32142.0
+  },
+  {
+    "draft": 5.73,
+    "displacement": 32202.0
+  },
+  {
+    "draft": 5.74,
+    "displacement": 32261.0
+  },
+  {
+    "draft": 5.75,
+    "displacement": 32321.0
+  },
+  {
+    "draft": 5.76,
+    "displacement": 32381.0
+  },
+  {
+    "draft": 5.77,
+    "displacement": 32441.0
+  },
+  {
+    "draft": 5.78,
+    "displacement": 32501.0
+  },
+  {
+    "draft": 5.79,
+    "displacement": 32561.0
+  },
+  {
+    "draft": 5.8,
+    "displacement": 32621.0
+  },
+  {
+    "draft": 5.81,
+    "displacement": 32681.0
+  },
+  {
+    "draft": 5.82,
+    "displacement": 32740.0
+  },
+  {
+    "draft": 5.83,
+    "displacement": 32800.0
+  },
+  {
+    "draft": 5.84,
+    "displacement": 32860.0
+  },
+  {
+    "draft": 5.85,
+    "displacement": 32920.0
+  },
+  {
+    "draft": 5.86,
+    "displacement": 32980.0
+  },
+  {
+    "draft": 5.87,
+    "displacement": 33040.0
+  },
+  {
+    "draft": 5.88,
+    "displacement": 33100.0
+  },
+  {
+    "draft": 5.89,
+    "displacement": 33160.0
+  },
+  {
+    "draft": 5.9,
+    "displacement": 33219.0
+  },
+  {
+    "draft": 5.91,
+    "displacement": 33279.0
+  },
+  {
+    "draft": 5.92,
+    "displacement": 33339.0
+  },
+  {
+    "draft": 5.93,
+    "displacement": 33399.0
+  },
+  {
+    "draft": 5.94,
+    "displacement": 33459.0
+  },
+  {
+    "draft": 5.95,
+    "displacement": 33519.0
+  },
+  {
+    "draft": 5.96,
+    "displacement": 33579.0
+  },
+  {
+    "draft": 5.97,
+    "displacement": 33638.0
+  },
+  {
+    "draft": 5.98,
+    "displacement": 33698.0
+  },
+  {
+    "draft": 5.99,
+    "displacement": 33758.0
+  },
+  {
+    "draft": 6.0,
+    "displacement": 33818.0
+  },
+  {
+    "draft": 6.01,
+    "displacement": 33878.0
+  },
+  {
+    "draft": 6.02,
+    "displacement": 33937.0
+  },
+  {
+    "draft": 6.03,
+    "displacement": 33997.0
+  },
+  {
+    "draft": 6.04,
+    "displacement": 34056.0
+  },
+  {
+    "draft": 6.05,
+    "displacement": 34116.0
+  },
+  {
+    "draft": 6.06,
+    "displacement": 34175.0
+  },
+  {
+    "draft": 6.07,
+    "displacement": 34235.0
+  },
+  {
+    "draft": 6.08,
+    "displacement": 34294.0
+  },
+  {
+    "draft": 6.09,
+    "displacement": 34354.0
+  },
+  {
+    "draft": 6.1,
+    "displacement": 34413.0
+  },
+  {
+    "draft": 6.11,
+    "displacement": 34473.0
+  },
+  {
+    "draft": 6.12,
+    "displacement": 34532.0
+  },
+  {
+    "draft": 6.13,
+    "displacement": 34592.0
+  },
+  {
+    "draft": 6.14,
+    "displacement": 34652.0
+  },
+  {
+    "draft": 6.15,
+    "displacement": 34711.0
+  },
+  {
+    "draft": 6.16,
+    "displacement": 34771.0
+  },
+  {
+    "draft": 6.17,
+    "displacement": 34830.0
+  },
+  {
+    "draft": 6.18,
+    "displacement": 34890.0
+  },
+  {
+    "draft": 6.19,
+    "displacement": 34950.0
+  },
+  {
+    "draft": 6.2,
+    "displacement": 35009.0
+  },
+  {
+    "draft": 6.21,
+    "displacement": 35069.0
+  },
+  {
+    "draft": 6.22,
+    "displacement": 35128.0
+  },
+  {
+    "draft": 6.23,
+    "displacement": 35188.0
+  },
+  {
+    "draft": 6.24,
+    "displacement": 35248.0
+  },
+  {
+    "draft": 6.25,
+    "displacement": 35307.0
+  },
+  {
+    "draft": 6.26,
+    "displacement": 35367.0
+  },
+  {
+    "draft": 6.27,
+    "displacement": 35427.0
+  },
+  {
+    "draft": 6.28,
+    "displacement": 35486.0
+  },
+  {
+    "draft": 6.29,
+    "displacement": 35546.0
+  },
+  {
+    "draft": 6.3,
+    "displacement": 35606.0
+  },
+  {
+    "draft": 6.31,
+    "displacement": 35665.0
+  },
+  {
+    "draft": 6.32,
+    "displacement": 35725.0
+  },
+  {
+    "draft": 6.33,
+    "displacement": 35785.0
+  },
+  {
+    "draft": 6.34,
+    "displacement": 35844.0
+  },
+  {
+    "draft": 6.35,
+    "displacement": 35904.0
+  },
+  {
+    "draft": 6.36,
+    "displacement": 35964.0
+  },
+  {
+    "draft": 6.37,
+    "displacement": 36023.0
+  },
+  {
+    "draft": 6.38,
+    "displacement": 36083.0
+  },
+  {
+    "draft": 6.39,
+    "displacement": 36143.0
+  },
+  {
+    "draft": 6.4,
+    "displacement": 36203.0
+  },
+  {
+    "draft": 6.41,
+    "displacement": 36262.0
+  },
+  {
+    "draft": 6.42,
+    "displacement": 36322.0
+  },
+  {
+    "draft": 6.43,
+    "displacement": 36382.0
+  },
+  {
+    "draft": 6.44,
+    "displacement": 36442.0
+  },
+  {
+    "draft": 6.45,
+    "displacement": 36501.0
+  },
+  {
+    "draft": 6.46,
+    "displacement": 36561.0
+  },
+  {
+    "draft": 6.47,
+    "displacement": 36621.0
+  },
+  {
+    "draft": 6.48,
+    "displacement": 36681.0
+  },
+  {
+    "draft": 6.49,
+    "displacement": 36740.0
+  },
+  {
+    "draft": 6.5,
+    "displacement": 36795.0
+  },
+  {
+    "draft": 6.51,
+    "displacement": 36860.0
+  },
+  {
+    "draft": 6.52,
+    "displacement": 36920.0
+  },
+  {
+    "draft": 6.53,
+    "displacement": 36980.0
+  },
+  {
+    "draft": 6.54,
+    "displacement": 37039.0
+  },
+  {
+    "draft": 6.55,
+    "displacement": 37099.0
+  },
+  {
+    "draft": 6.56,
+    "displacement": 37159.0
+  },
+  {
+    "draft": 6.57,
+    "displacement": 37219.0
+  },
+  {
+    "draft": 6.58,
+    "displacement": 37279.0
+  },
+  {
+    "draft": 6.59,
+    "displacement": 37338.0
+  },
+  {
+    "draft": 6.6,
+    "displacement": 37398.0
+  },
+  {
+    "draft": 6.61,
+    "displacement": 37458.0
+  },
+  {
+    "draft": 6.62,
+    "displacement": 37518.0
+  },
+  {
+    "draft": 6.63,
+    "displacement": 37578.0
+  },
+  {
+    "draft": 6.64,
+    "displacement": 37638.0
+  },
+  {
+    "draft": 6.65,
+    "displacement": 37698.0
+  },
+  {
+    "draft": 6.66,
+    "displacement": 37757.0
+  },
+  {
+    "draft": 6.67,
+    "displacement": 37817.0
+  },
+  {
+    "draft": 6.68,
+    "displacement": 37877.0
+  },
+  {
+    "draft": 6.69,
+    "displacement": 37937.0
+  },
+  {
+    "draft": 6.7,
+    "displacement": 37997.0
+  },
+  {
+    "draft": 6.71,
+    "displacement": 38057.0
+  },
+  {
+    "draft": 6.72,
+    "displacement": 38117.0
+  },
+  {
+    "draft": 6.73,
+    "displacement": 38177.0
+  },
+  {
+    "draft": 6.74,
+    "displacement": 38237.0
+  },
+  {
+    "draft": 6.75,
+    "displacement": 38297.0
+  },
+  {
+    "draft": 6.76,
+    "displacement": 38356.0
+  },
+  {
+    "draft": 6.77,
+    "displacement": 38416.0
+  },
+  {
+    "draft": 6.78,
+    "displacement": 38476.0
+  },
+  {
+    "draft": 6.79,
+    "displacement": 38536.0
+  },
+  {
+    "draft": 6.8,
+    "displacement": 38596.0
+  },
+  {
+    "draft": 6.81,
+    "displacement": 38656.0
+  },
+  {
+    "draft": 6.82,
+    "displacement": 38716.0
+  },
+  {
+    "draft": 6.83,
+    "displacement": 38776.0
+  },
+  {
+    "draft": 6.84,
+    "displacement": 38836.0
+  },
+  {
+    "draft": 6.85,
+    "displacement": 38896.0
+  },
+  {
+    "draft": 6.86,
+    "displacement": 38956.0
+  },
+  {
+    "draft": 6.87,
+    "displacement": 39016.0
+  },
+  {
+    "draft": 6.88,
+    "displacement": 39076.0
+  },
+  {
+    "draft": 6.89,
+    "displacement": 39136.0
+  },
+  {
+    "draft": 6.9,
+    "displacement": 39196.0
+  },
+  {
+    "draft": 6.91,
+    "displacement": 39256.0
+  },
+  {
+    "draft": 6.92,
+    "displacement": 39316.0
+  },
+  {
+    "draft": 6.93,
+    "displacement": 39376.0
+  },
+  {
+    "draft": 6.94,
+    "displacement": 39436.0
+  },
+  {
+    "draft": 6.95,
+    "displacement": 39496.0
+  },
+  {
+    "draft": 6.96,
+    "displacement": 39556.0
+  },
+  {
+    "draft": 6.97,
+    "displacement": 39616.0
+  },
+  {
+    "draft": 6.98,
+    "displacement": 39676.0
+  },
+  {
+    "draft": 6.99,
+    "displacement": 39736.0
+  },
+  {
+    "draft": 7.0,
+    "displacement": 39786.0
+  },
+  {
+    "draft": 7.01,
+    "displacement": 39857.0
+  },
+  {
+    "draft": 7.02,
+    "displacement": 39917.0
+  },
+  {
+    "draft": 7.03,
+    "displacement": 39977.0
+  },
+  {
+    "draft": 7.04,
+    "displacement": 40037.0
+  },
+  {
+    "draft": 7.05,
+    "displacement": 40097.0
+  },
+  {
+    "draft": 7.06,
+    "displacement": 40157.0
+  },
+  {
+    "draft": 7.07,
+    "displacement": 40217.0
+  },
+  {
+    "draft": 7.08,
+    "displacement": 40277.0
+  },
+  {
+    "draft": 7.09,
+    "displacement": 40337.0
+  },
+  {
+    "draft": 7.1,
+    "displacement": 40397.0
+  },
+  {
+    "draft": 7.11,
+    "displacement": 40457.0
+  },
+  {
+    "draft": 7.12,
+    "displacement": 40518.0
+  },
+  {
+    "draft": 7.13,
+    "displacement": 40578.0
+  },
+  {
+    "draft": 7.14,
+    "displacement": 40638.0
+  },
+  {
+    "draft": 7.15,
+    "displacement": 40698.0
+  },
+  {
+    "draft": 7.16,
+    "displacement": 40758.0
+  },
+  {
+    "draft": 7.17,
+    "displacement": 40818.0
+  },
+  {
+    "draft": 7.18,
+    "displacement": 40879.0
+  },
+  {
+    "draft": 7.19,
+    "displacement": 40939.0
+  },
+  {
+    "draft": 7.2,
+    "displacement": 40999.0
+  },
+  {
+    "draft": 7.21,
+    "displacement": 41059.0
+  },
+  {
+    "draft": 7.22,
+    "displacement": 41119.0
+  },
+  {
+    "draft": 7.23,
+    "displacement": 41179.0
+  },
+  {
+    "draft": 7.24,
+    "displacement": 41240.0
+  },
+  {
+    "draft": 7.25,
+    "displacement": 41300.0
+  },
+  {
+    "draft": 7.26,
+    "displacement": 41360.0
+  },
+  {
+    "draft": 7.27,
+    "displacement": 41420.0
+  },
+  {
+    "draft": 7.28,
+    "displacement": 41480.0
+  },
+  {
+    "draft": 7.29,
+    "displacement": 41541.0
+  },
+  {
+    "draft": 7.3,
+    "displacement": 41601.0
+  },
+  {
+    "draft": 7.31,
+    "displacement": 41661.0
+  },
+  {
+    "draft": 7.32,
+    "displacement": 41721.0
+  },
+  {
+    "draft": 7.33,
+    "displacement": 41782.0
+  },
+  {
+    "draft": 7.34,
+    "displacement": 41842.0
+  },
+  {
+    "draft": 7.35,
+    "displacement": 41902.0
+  },
+  {
+    "draft": 7.36,
+    "displacement": 41962.0
+  },
+  {
+    "draft": 7.37,
+    "displacement": 42023.0
+  },
+  {
+    "draft": 7.38,
+    "displacement": 42083.0
+  },
+  {
+    "draft": 7.39,
+    "displacement": 42143.0
+  },
+  {
+    "draft": 7.4,
+    "displacement": 42204.0
+  },
+  {
+    "draft": 7.41,
+    "displacement": 42264.0
+  },
+  {
+    "draft": 7.42,
+    "displacement": 42324.0
+  },
+  {
+    "draft": 7.43,
+    "displacement": 42384.0
+  },
+  {
+    "draft": 7.44,
+    "displacement": 42445.0
+  },
+  {
+    "draft": 7.45,
+    "displacement": 42505.0
+  },
+  {
+    "draft": 7.46,
+    "displacement": 42565.0
+  },
+  {
+    "draft": 7.47,
+    "displacement": 42626.0
+  },
+  {
+    "draft": 7.48,
+    "displacement": 42686.0
+  },
+  {
+    "draft": 7.49,
+    "displacement": 42746.0
+  },
+  {
+    "draft": 7.5,
+    "displacement": 42792.0
+  },
+  {
+    "draft": 7.51,
+    "displacement": 42867.0
+  },
+  {
+    "draft": 7.52,
+    "displacement": 42927.0
+  },
+  {
+    "draft": 7.53,
+    "displacement": 42988.0
+  },
+  {
+    "draft": 7.54,
+    "displacement": 43048.0
+  },
+  {
+    "draft": 7.55,
+    "displacement": 43109.0
+  },
+  {
+    "draft": 7.56,
+    "displacement": 43169.0
+  },
+  {
+    "draft": 7.57,
+    "displacement": 43229.0
+  },
+  {
+    "draft": 7.58,
+    "displacement": 43290.0
+  },
+  {
+    "draft": 7.59,
+    "displacement": 43350.0
+  },
+  {
+    "draft": 7.6,
+    "displacement": 43411.0
+  },
+  {
+    "draft": 7.61,
+    "displacement": 43471.0
+  },
+  {
+    "draft": 7.62,
+    "displacement": 43531.0
+  },
+  {
+    "draft": 7.63,
+    "displacement": 43592.0
+  },
+  {
+    "draft": 7.64,
+    "displacement": 43652.0
+  },
+  {
+    "draft": 7.65,
+    "displacement": 43713.0
+  },
+  {
+    "draft": 7.66,
+    "displacement": 43773.0
+  },
+  {
+    "draft": 7.67,
+    "displacement": 43833.0
+  },
+  {
+    "draft": 7.68,
+    "displacement": 43894.0
+  },
+  {
+    "draft": 7.69,
+    "displacement": 43954.0
+  },
+  {
+    "draft": 7.7,
+    "displacement": 44015.0
+  },
+  {
+    "draft": 7.71,
+    "displacement": 44075.0
+  },
+  {
+    "draft": 7.72,
+    "displacement": 44136.0
+  },
+  {
+    "draft": 7.73,
+    "displacement": 44196.0
+  },
+  {
+    "draft": 7.74,
+    "displacement": 44257.0
+  },
+  {
+    "draft": 7.75,
+    "displacement": 44317.0
+  },
+  {
+    "draft": 7.76,
+    "displacement": 44378.0
+  },
+  {
+    "draft": 7.77,
+    "displacement": 44438.0
+  },
+  {
+    "draft": 7.78,
+    "displacement": 44499.0
+  },
+  {
+    "draft": 7.79,
+    "displacement": 44559.0
+  },
+  {
+    "draft": 7.8,
+    "displacement": 44620.0
+  },
+  {
+    "draft": 7.81,
+    "displacement": 44680.0
+  },
+  {
+    "draft": 7.82,
+    "displacement": 44741.0
+  },
+  {
+    "draft": 7.83,
+    "displacement": 44801.0
+  },
+  {
+    "draft": 7.84,
+    "displacement": 44862.0
+  },
+  {
+    "draft": 7.85,
+    "displacement": 44922.0
+  },
+  {
+    "draft": 7.86,
+    "displacement": 44983.0
+  },
+  {
+    "draft": 7.87,
+    "displacement": 45043.0
+  },
+  {
+    "draft": 7.88,
+    "displacement": 45104.0
+  },
+  {
+    "draft": 7.89,
+    "displacement": 45165.0
+  },
+  {
+    "draft": 7.9,
+    "displacement": 45225.0
+  },
+  {
+    "draft": 7.91,
+    "displacement": 45286.0
+  },
+  {
+    "draft": 7.92,
+    "displacement": 45346.0
+  },
+  {
+    "draft": 7.93,
+    "displacement": 45407.0
+  },
+  {
+    "draft": 7.94,
+    "displacement": 45467.0
+  },
+  {
+    "draft": 7.95,
+    "displacement": 45528.0
+  },
+  {
+    "draft": 7.96,
+    "displacement": 45589.0
+  },
+  {
+    "draft": 7.97,
+    "displacement": 45649.0
+  },
+  {
+    "draft": 7.98,
+    "displacement": 45710.0
+  },
+  {
+    "draft": 7.99,
+    "displacement": 45771.0
+  },
+  {
+    "draft": 8.0,
+    "displacement": 45831.0
+  },
+  {
+    "draft": 8.01,
+    "displacement": 45892.0
+  },
+  {
+    "draft": 8.02,
+    "displacement": 45952.0
+  },
+  {
+    "draft": 8.03,
+    "displacement": 46013.0
+  },
+  {
+    "draft": 8.04,
+    "displacement": 46074.0
+  },
+  {
+    "draft": 8.05,
+    "displacement": 46134.0
+  },
+  {
+    "draft": 8.06,
+    "displacement": 46195.0
+  },
+  {
+    "draft": 8.07,
+    "displacement": 46256.0
+  },
+  {
+    "draft": 8.08,
+    "displacement": 46316.0
+  },
+  {
+    "draft": 8.09,
+    "displacement": 46377.0
+  },
+  {
+    "draft": 8.1,
+    "displacement": 46438.0
+  },
+  {
+    "draft": 8.11,
+    "displacement": 46498.0
+  },
+  {
+    "draft": 8.12,
+    "displacement": 46559.0
+  },
+  {
+    "draft": 8.13,
+    "displacement": 46620.0
+  },
+  {
+    "draft": 8.14,
+    "displacement": 46681.0
+  },
+  {
+    "draft": 8.15,
+    "displacement": 46741.0
+  },
+  {
+    "draft": 8.16,
+    "displacement": 46802.0
+  },
+  {
+    "draft": 8.17,
+    "displacement": 46863.0
+  },
+  {
+    "draft": 8.18,
+    "displacement": 46923.0
+  },
+  {
+    "draft": 8.19,
+    "displacement": 46984.0
+  },
+  {
+    "draft": 8.2,
+    "displacement": 47045.0
+  },
+  {
+    "draft": 8.21,
+    "displacement": 47106.0
+  },
+  {
+    "draft": 8.22,
+    "displacement": 47166.0
+  },
+  {
+    "draft": 8.23,
+    "displacement": 47227.0
+  },
+  {
+    "draft": 8.24,
+    "displacement": 47288.0
+  },
+  {
+    "draft": 8.25,
+    "displacement": 47349.0
+  },
+  {
+    "draft": 8.26,
+    "displacement": 47409.0
+  },
+  {
+    "draft": 8.27,
+    "displacement": 47470.0
+  },
+  {
+    "draft": 8.28,
+    "displacement": 47531.0
+  },
+  {
+    "draft": 8.29,
+    "displacement": 47592.0
+  },
+  {
+    "draft": 8.3,
+    "displacement": 47653.0
+  },
+  {
+    "draft": 8.31,
+    "displacement": 47713.0
+  },
+  {
+    "draft": 8.32,
+    "displacement": 47774.0
+  },
+  {
+    "draft": 8.33,
+    "displacement": 47835.0
+  },
+  {
+    "draft": 8.34,
+    "displacement": 47896.0
+  },
+  {
+    "draft": 8.35,
+    "displacement": 47957.0
+  },
+  {
+    "draft": 8.36,
+    "displacement": 48017.0
+  },
+  {
+    "draft": 8.37,
+    "displacement": 48078.0
+  },
+  {
+    "draft": 8.38,
+    "displacement": 48139.0
+  },
+  {
+    "draft": 8.39,
+    "displacement": 48200.0
+  },
+  {
+    "draft": 8.4,
+    "displacement": 48261.0
+  },
+  {
+    "draft": 8.41,
+    "displacement": 48322.0
+  },
+  {
+    "draft": 8.42,
+    "displacement": 48383.0
+  },
+  {
+    "draft": 8.43,
+    "displacement": 48443.0
+  },
+  {
+    "draft": 8.44,
+    "displacement": 48504.0
+  },
+  {
+    "draft": 8.45,
+    "displacement": 48565.0
+  },
+  {
+    "draft": 8.46,
+    "displacement": 48626.0
+  },
+  {
+    "draft": 8.47,
+    "displacement": 48687.0
+  },
+  {
+    "draft": 8.48,
+    "displacement": 48748.0
+  },
+  {
+    "draft": 8.49,
+    "displacement": 48809.0
+  },
+  {
+    "draft": 8.5,
+    "displacement": 48870.0
+  },
+  {
+    "draft": 8.51,
+    "displacement": 48931.0
+  },
+  {
+    "draft": 8.52,
+    "displacement": 48991.0
+  },
+  {
+    "draft": 8.53,
+    "displacement": 49052.0
+  },
+  {
+    "draft": 8.54,
+    "displacement": 49113.0
+  },
+  {
+    "draft": 8.55,
+    "displacement": 49174.0
+  },
+  {
+    "draft": 8.56,
+    "displacement": 49235.0
+  },
+  {
+    "draft": 8.57,
+    "displacement": 49296.0
+  },
+  {
+    "draft": 8.58,
+    "displacement": 49357.0
+  },
+  {
+    "draft": 8.59,
+    "displacement": 49418.0
+  },
+  {
+    "draft": 8.6,
+    "displacement": 49479.0
+  },
+  {
+    "draft": 8.61,
+    "displacement": 49540.0
+  },
+  {
+    "draft": 8.62,
+    "displacement": 49601.0
+  },
+  {
+    "draft": 8.63,
+    "displacement": 49662.0
+  },
+  {
+    "draft": 8.64,
+    "displacement": 49723.0
+  },
+  {
+    "draft": 8.65,
+    "displacement": 49784.0
+  },
+  {
+    "draft": 8.66,
+    "displacement": 49845.0
+  },
+  {
+    "draft": 8.67,
+    "displacement": 49906.0
+  },
+  {
+    "draft": 8.68,
+    "displacement": 49967.0
+  },
+  {
+    "draft": 8.69,
+    "displacement": 50028.0
+  },
+  {
+    "draft": 8.7,
+    "displacement": 50089.0
+  },
+  {
+    "draft": 8.71,
+    "displacement": 50150.0
+  },
+  {
+    "draft": 8.72,
+    "displacement": 50211.0
+  },
+  {
+    "draft": 8.73,
+    "displacement": 50272.0
+  },
+  {
+    "draft": 8.74,
+    "displacement": 50333.0
+  },
+  {
+    "draft": 8.75,
+    "displacement": 50394.0
+  },
+  {
+    "draft": 8.76,
+    "displacement": 50455.0
+  },
+  {
+    "draft": 8.77,
+    "displacement": 50516.0
+  },
+  {
+    "draft": 8.78,
+    "displacement": 50577.0
+  },
+  {
+    "draft": 8.79,
+    "displacement": 50638.0
+  },
+  {
+    "draft": 8.8,
+    "displacement": 50699.0
+  },
+  {
+    "draft": 8.81,
+    "displacement": 50761.0
+  },
+  {
+    "draft": 8.82,
+    "displacement": 50822.0
+  },
+  {
+    "draft": 8.83,
+    "displacement": 50883.0
+  },
+  {
+    "draft": 8.84,
+    "displacement": 50944.0
+  },
+  {
+    "draft": 8.85,
+    "displacement": 51005.0
+  },
+  {
+    "draft": 8.86,
+    "displacement": 51066.0
+  },
+  {
+    "draft": 8.87,
+    "displacement": 51127.0
+  },
+  {
+    "draft": 8.88,
+    "displacement": 51188.0
+  },
+  {
+    "draft": 8.89,
+    "displacement": 51249.0
+  },
+  {
+    "draft": 8.9,
+    "displacement": 51311.0
+  },
+  {
+    "draft": 8.91,
+    "displacement": 51372.0
+  },
+  {
+    "draft": 8.92,
+    "displacement": 51433.0
+  },
+  {
+    "draft": 8.93,
+    "displacement": 51494.0
+  },
+  {
+    "draft": 8.94,
+    "displacement": 51555.0
+  },
+  {
+    "draft": 8.95,
+    "displacement": 51616.0
+  },
+  {
+    "draft": 8.96,
+    "displacement": 51677.0
+  },
+  {
+    "draft": 8.97,
+    "displacement": 51739.0
+  },
+  {
+    "draft": 8.98,
+    "displacement": 51800.0
+  },
+  {
+    "draft": 8.99,
+    "displacement": 51861.0
+  },
+  {
+    "draft": 9.0,
+    "displacement": 51892.0
+  },
+  {
+    "draft": 9.01,
+    "displacement": 51985.0
+  },
+  {
+    "draft": 9.02,
+    "displacement": 52047.0
+  },
+  {
+    "draft": 9.03,
+    "displacement": 52110.0
+  },
+  {
+    "draft": 9.04,
+    "displacement": 52172.0
+  },
+  {
+    "draft": 9.05,
+    "displacement": 52235.0
+  },
+  {
+    "draft": 9.06,
+    "displacement": 52297.0
+  },
+  {
+    "draft": 9.07,
+    "displacement": 52360.0
+  },
+  {
+    "draft": 9.08,
+    "displacement": 52422.0
+  },
+  {
+    "draft": 9.09,
+    "displacement": 52485.0
+  },
+  {
+    "draft": 9.1,
+    "displacement": 52547.0
+  },
+  {
+    "draft": 9.11,
+    "displacement": 52610.0
+  },
+  {
+    "draft": 9.12,
+    "displacement": 52672.0
+  },
+  {
+    "draft": 9.13,
+    "displacement": 52734.0
+  },
+  {
+    "draft": 9.14,
+    "displacement": 52797.0
+  },
+  {
+    "draft": 9.15,
+    "displacement": 52859.0
+  },
+  {
+    "draft": 9.16,
+    "displacement": 52922.0
+  },
+  {
+    "draft": 9.17,
+    "displacement": 52984.0
+  },
+  {
+    "draft": 9.18,
+    "displacement": 53047.0
+  },
+  {
+    "draft": 9.19,
+    "displacement": 53109.0
+  },
+  {
+    "draft": 9.2,
+    "displacement": 53172.0
+  },
+  {
+    "draft": 9.21,
+    "displacement": 53234.0
+  },
+  {
+    "draft": 9.22,
+    "displacement": 53297.0
+  },
+  {
+    "draft": 9.23,
+    "displacement": 53359.0
+  },
+  {
+    "draft": 9.24,
+    "displacement": 53422.0
+  },
+  {
+    "draft": 9.25,
+    "displacement": 53484.0
+  },
+  {
+    "draft": 9.26,
+    "displacement": 53547.0
+  },
+  {
+    "draft": 9.27,
+    "displacement": 53609.0
+  },
+  {
+    "draft": 9.28,
+    "displacement": 53672.0
+  },
+  {
+    "draft": 9.29,
+    "displacement": 53734.0
+  },
+  {
+    "draft": 9.3,
+    "displacement": 53797.0
+  },
+  {
+    "draft": 9.31,
+    "displacement": 53859.0
+  },
+  {
+    "draft": 9.32,
+    "displacement": 53922.0
+  },
+  {
+    "draft": 9.33,
+    "displacement": 53984.0
+  },
+  {
+    "draft": 9.34,
+    "displacement": 54047.0
+  },
+  {
+    "draft": 9.35,
+    "displacement": 54109.0
+  },
+  {
+    "draft": 9.36,
+    "displacement": 54172.0
+  },
+  {
+    "draft": 9.37,
+    "displacement": 54234.0
+  },
+  {
+    "draft": 9.38,
+    "displacement": 54297.0
+  },
+  {
+    "draft": 9.39,
+    "displacement": 54359.0
+  },
+  {
+    "draft": 9.4,
+    "displacement": 54422.0
+  },
+  {
+    "draft": 9.41,
+    "displacement": 54484.0
+  },
+  {
+    "draft": 9.42,
+    "displacement": 54546.0
+  },
+  {
+    "draft": 9.43,
+    "displacement": 54609.0
+  },
+  {
+    "draft": 9.44,
+    "displacement": 54671.0
+  },
+  {
+    "draft": 9.45,
+    "displacement": 54734.0
+  },
+  {
+    "draft": 9.46,
+    "displacement": 54796.0
+  },
+  {
+    "draft": 9.47,
+    "displacement": 54859.0
+  },
+  {
+    "draft": 9.48,
+    "displacement": 54921.0
+  },
+  {
+    "draft": 9.49,
+    "displacement": 54984.0
+  },
+  {
+    "draft": 9.5,
+    "displacement": 55046.0
+  },
+  {
+    "draft": 9.51,
+    "displacement": 55109.0
+  },
+  {
+    "draft": 9.52,
+    "displacement": 55171.0
+  },
+  {
+    "draft": 9.53,
+    "displacement": 55234.0
+  },
+  {
+    "draft": 9.54,
+    "displacement": 55296.0
+  },
+  {
+    "draft": 9.55,
+    "displacement": 55359.0
+  },
+  {
+    "draft": 9.56,
+    "displacement": 55421.0
+  },
+  {
+    "draft": 9.57,
+    "displacement": 55484.0
+  },
+  {
+    "draft": 9.58,
+    "displacement": 55546.0
+  },
+  {
+    "draft": 9.59,
+    "displacement": 55609.0
+  },
+  {
+    "draft": 9.6,
+    "displacement": 55671.0
+  },
+  {
+    "draft": 9.61,
+    "displacement": 55734.0
+  },
+  {
+    "draft": 9.62,
+    "displacement": 55796.0
+  },
+  {
+    "draft": 9.63,
+    "displacement": 55859.0
+  },
+  {
+    "draft": 9.64,
+    "displacement": 55921.0
+  },
+  {
+    "draft": 9.65,
+    "displacement": 55984.0
+  },
+  {
+    "draft": 9.66,
+    "displacement": 56046.0
+  },
+  {
+    "draft": 9.67,
+    "displacement": 56109.0
+  },
+  {
+    "draft": 9.68,
+    "displacement": 56171.0
+  },
+  {
+    "draft": 9.69,
+    "displacement": 56234.0
+  },
+  {
+    "draft": 9.7,
+    "displacement": 56296.0
+  },
+  {
+    "draft": 9.71,
+    "displacement": 56359.0
+  },
+  {
+    "draft": 9.72,
+    "displacement": 56421.0
+  },
+  {
+    "draft": 9.73,
+    "displacement": 56483.0
+  },
+  {
+    "draft": 9.74,
+    "displacement": 56546.0
+  },
+  {
+    "draft": 9.75,
+    "displacement": 56608.0
+  },
+  {
+    "draft": 9.76,
+    "displacement": 56671.0
+  },
+  {
+    "draft": 9.77,
+    "displacement": 56733.0
+  },
+  {
+    "draft": 9.78,
+    "displacement": 56796.0
+  },
+  {
+    "draft": 9.79,
+    "displacement": 56858.0
+  },
+  {
+    "draft": 9.8,
+    "displacement": 56921.0
+  },
+  {
+    "draft": 9.81,
+    "displacement": 56983.0
+  },
+  {
+    "draft": 9.82,
+    "displacement": 57046.0
+  },
+  {
+    "draft": 9.83,
+    "displacement": 57108.0
+  },
+  {
+    "draft": 9.84,
+    "displacement": 57171.0
+  },
+  {
+    "draft": 9.85,
+    "displacement": 57233.0
+  },
+  {
+    "draft": 9.86,
+    "displacement": 57296.0
+  },
+  {
+    "draft": 9.87,
+    "displacement": 57358.0
+  },
+  {
+    "draft": 9.88,
+    "displacement": 57421.0
+  },
+  {
+    "draft": 9.89,
+    "displacement": 57483.0
+  },
+  {
+    "draft": 9.9,
+    "displacement": 57546.0
+  },
+  {
+    "draft": 9.91,
+    "displacement": 57608.0
+  },
+  {
+    "draft": 9.92,
+    "displacement": 57671.0
+  },
+  {
+    "draft": 9.93,
+    "displacement": 57733.0
+  },
+  {
+    "draft": 9.94,
+    "displacement": 57796.0
+  },
+  {
+    "draft": 9.95,
+    "displacement": 57858.0
+  },
+  {
+    "draft": 9.96,
+    "displacement": 57921.0
+  },
+  {
+    "draft": 9.97,
+    "displacement": 57983.0
+  },
+  {
+    "draft": 9.98,
+    "displacement": 58046.0
+  },
+  {
+    "draft": 9.99,
+    "displacement": 58108.0
+  },
+  {
+    "draft": 10.0,
+    "displacement": 58141.0
+  },
+  {
+    "draft": 10.01,
+    "displacement": 58233.0
+  },
+  {
+    "draft": 10.02,
+    "displacement": 58295.0
+  },
+  {
+    "draft": 10.03,
+    "displacement": 58358.0
+  },
+  {
+    "draft": 10.04,
+    "displacement": 58420.0
+  },
+  {
+    "draft": 10.05,
+    "displacement": 58483.0
+  },
+  {
+    "draft": 10.06,
+    "displacement": 58545.0
+  },
+  {
+    "draft": 10.07,
+    "displacement": 58608.0
+  },
+  {
+    "draft": 10.08,
+    "displacement": 58670.0
+  },
+  {
+    "draft": 10.09,
+    "displacement": 58733.0
+  },
+  {
+    "draft": 10.1,
+    "displacement": 58795.0
+  },
+  {
+    "draft": 10.11,
+    "displacement": 58858.0
+  },
+  {
+    "draft": 10.12,
+    "displacement": 58920.0
+  },
+  {
+    "draft": 10.13,
+    "displacement": 58983.0
+  },
+  {
+    "draft": 10.14,
+    "displacement": 59045.0
+  },
+  {
+    "draft": 10.15,
+    "displacement": 59108.0
+  },
+  {
+    "draft": 10.16,
+    "displacement": 59170.0
+  },
+  {
+    "draft": 10.17,
+    "displacement": 59233.0
+  },
+  {
+    "draft": 10.18,
+    "displacement": 59295.0
+  },
+  {
+    "draft": 10.19,
+    "displacement": 59358.0
+  },
+  {
+    "draft": 10.2,
+    "displacement": 59420.0
+  },
+  {
+    "draft": 10.21,
+    "displacement": 59483.0
+  },
+  {
+    "draft": 10.22,
+    "displacement": 59545.0
+  },
+  {
+    "draft": 10.23,
+    "displacement": 59608.0
+  },
+  {
+    "draft": 10.24,
+    "displacement": 59670.0
+  },
+  {
+    "draft": 10.25,
+    "displacement": 59733.0
+  },
+  {
+    "draft": 10.26,
+    "displacement": 59795.0
+  },
+  {
+    "draft": 10.27,
+    "displacement": 59858.0
+  },
+  {
+    "draft": 10.28,
+    "displacement": 59920.0
+  },
+  {
+    "draft": 10.29,
+    "displacement": 59983.0
+  },
+  {
+    "draft": 10.3,
+    "displacement": 60045.0
+  },
+  {
+    "draft": 10.31,
+    "displacement": 60108.0
+  },
+  {
+    "draft": 10.32,
+    "displacement": 60170.0
+  },
+  {
+    "draft": 10.33,
+    "displacement": 60232.0
+  },
+  {
+    "draft": 10.34,
+    "displacement": 60295.0
+  },
+  {
+    "draft": 10.35,
+    "displacement": 60357.0
+  },
+  {
+    "draft": 10.36,
+    "displacement": 60420.0
+  },
+  {
+    "draft": 10.37,
+    "displacement": 60482.0
+  },
+  {
+    "draft": 10.38,
+    "displacement": 60545.0
+  },
+  {
+    "draft": 10.39,
+    "displacement": 60607.0
+  },
+  {
+    "draft": 10.4,
+    "displacement": 60670.0
+  },
+  {
+    "draft": 10.41,
+    "displacement": 60732.0
+  },
+  {
+    "draft": 10.42,
+    "displacement": 60795.0
+  },
+  {
+    "draft": 10.43,
+    "displacement": 60857.0
+  },
+  {
+    "draft": 10.44,
+    "displacement": 60920.0
+  },
+  {
+    "draft": 10.45,
+    "displacement": 60982.0
+  },
+  {
+    "draft": 10.46,
+    "displacement": 61045.0
+  },
+  {
+    "draft": 10.47,
+    "displacement": 61107.0
+  },
+  {
+    "draft": 10.48,
+    "displacement": 61170.0
+  },
+  {
+    "draft": 10.49,
+    "displacement": 61232.0
+  },
+  {
+    "draft": 10.5,
+    "displacement": 61295.0
+  },
+  {
+    "draft": 10.51,
+    "displacement": 61357.0
+  },
+  {
+    "draft": 10.52,
+    "displacement": 61420.0
+  },
+  {
+    "draft": 10.53,
+    "displacement": 61482.0
+  },
+  {
+    "draft": 10.54,
+    "displacement": 61545.0
+  },
+  {
+    "draft": 10.55,
+    "displacement": 61607.0
+  },
+  {
+    "draft": 10.56,
+    "displacement": 61670.0
+  },
+  {
+    "draft": 10.57,
+    "displacement": 61732.0
+  },
+  {
+    "draft": 10.58,
+    "displacement": 61795.0
+  },
+  {
+    "draft": 10.59,
+    "displacement": 61857.0
+  },
+  {
+    "draft": 10.6,
+    "displacement": 61920.0
+  },
+  {
+    "draft": 10.61,
+    "displacement": 61982.0
+  },
+  {
+    "draft": 10.62,
+    "displacement": 62044.0
+  },
+  {
+    "draft": 10.63,
+    "displacement": 62107.0
+  },
+  {
+    "draft": 10.64,
+    "displacement": 62169.0
+  },
+  {
+    "draft": 10.65,
+    "displacement": 62232.0
+  },
+  {
+    "draft": 10.66,
+    "displacement": 62294.0
+  },
+  {
+    "draft": 10.67,
+    "displacement": 62357.0
+  },
+  {
+    "draft": 10.68,
+    "displacement": 62419.0
+  },
+  {
+    "draft": 10.69,
+    "displacement": 62482.0
+  },
+  {
+    "draft": 10.7,
+    "displacement": 62544.0
+  },
+  {
+    "draft": 10.71,
+    "displacement": 62607.0
+  },
+  {
+    "draft": 10.72,
+    "displacement": 62669.0
+  },
+  {
+    "draft": 10.73,
+    "displacement": 62732.0
+  },
+  {
+    "draft": 10.74,
+    "displacement": 62794.0
+  },
+  {
+    "draft": 10.75,
+    "displacement": 62857.0
+  },
+  {
+    "draft": 10.76,
+    "displacement": 62919.0
+  },
+  {
+    "draft": 10.77,
+    "displacement": 62982.0
+  },
+  {
+    "draft": 10.78,
+    "displacement": 63044.0
+  },
+  {
+    "draft": 10.79,
+    "displacement": 63107.0
+  },
+  {
+    "draft": 10.8,
+    "displacement": 63169.0
+  },
+  {
+    "draft": 10.81,
+    "displacement": 63232.0
+  },
+  {
+    "draft": 10.82,
+    "displacement": 63294.0
+  },
+  {
+    "draft": 10.83,
+    "displacement": 63357.0
+  },
+  {
+    "draft": 10.84,
+    "displacement": 63419.0
+  },
+  {
+    "draft": 10.85,
+    "displacement": 63482.0
+  },
+  {
+    "draft": 10.86,
+    "displacement": 63544.0
+  },
+  {
+    "draft": 10.87,
+    "displacement": 63607.0
+  },
+  {
+    "draft": 10.88,
+    "displacement": 63669.0
+  },
+  {
+    "draft": 10.89,
+    "displacement": 63732.0
+  },
+  {
+    "draft": 10.9,
+    "displacement": 63794.0
+  },
+  {
+    "draft": 10.91,
+    "displacement": 63857.0
+  },
+  {
+    "draft": 10.92,
+    "displacement": 63919.0
+  },
+  {
+    "draft": 10.93,
+    "displacement": 63981.0
+  },
+  {
+    "draft": 10.94,
+    "displacement": 64044.0
+  },
+  {
+    "draft": 10.95,
+    "displacement": 64106.0
+  },
+  {
+    "draft": 10.96,
+    "displacement": 64169.0
+  },
+  {
+    "draft": 10.97,
+    "displacement": 64231.0
+  },
+  {
+    "draft": 10.98,
+    "displacement": 64294.0
+  },
+  {
+    "draft": 10.99,
+    "displacement": 64356.0
+  },
+  {
+    "draft": 11.0,
+    "displacement": 64389.0
+  },
+  {
+    "draft": 11.01,
+    "displacement": 64481.0
+  },
+  {
+    "draft": 11.02,
+    "displacement": 64544.0
+  },
+  {
+    "draft": 11.03,
+    "displacement": 64606.0
+  },
+  {
+    "draft": 11.04,
+    "displacement": 64669.0
+  },
+  {
+    "draft": 11.05,
+    "displacement": 64731.0
+  },
+  {
+    "draft": 11.06,
+    "displacement": 64794.0
+  },
+  {
+    "draft": 11.07,
+    "displacement": 64856.0
+  },
+  {
+    "draft": 11.08,
+    "displacement": 64919.0
+  },
+  {
+    "draft": 11.09,
+    "displacement": 64981.0
+  },
+  {
+    "draft": 11.1,
+    "displacement": 65044.0
+  },
+  {
+    "draft": 11.11,
+    "displacement": 65106.0
+  },
+  {
+    "draft": 11.12,
+    "displacement": 65169.0
+  },
+  {
+    "draft": 11.13,
+    "displacement": 65231.0
+  },
+  {
+    "draft": 11.14,
+    "displacement": 65294.0
+  },
+  {
+    "draft": 11.15,
+    "displacement": 65356.0
+  },
+  {
+    "draft": 11.16,
+    "displacement": 65419.0
+  },
+  {
+    "draft": 11.17,
+    "displacement": 65481.0
+  },
+  {
+    "draft": 11.18,
+    "displacement": 65544.0
+  },
+  {
+    "draft": 11.19,
+    "displacement": 65606.0
+  },
+  {
+    "draft": 11.2,
+    "displacement": 65669.0
+  },
+  {
+    "draft": 11.21,
+    "displacement": 65731.0
+  },
+  {
+    "draft": 11.22,
+    "displacement": 65793.0
+  },
+  {
+    "draft": 11.23,
+    "displacement": 65856.0
+  },
+  {
+    "draft": 11.24,
+    "displacement": 65918.0
+  },
+  {
+    "draft": 11.25,
+    "displacement": 65981.0
+  },
+  {
+    "draft": 11.26,
+    "displacement": 66043.0
+  },
+  {
+    "draft": 11.27,
+    "displacement": 66106.0
+  },
+  {
+    "draft": 11.28,
+    "displacement": 66168.0
+  },
+  {
+    "draft": 11.29,
+    "displacement": 66231.0
+  },
+  {
+    "draft": 11.3,
+    "displacement": 66293.0
+  },
+  {
+    "draft": 11.31,
+    "displacement": 66356.0
+  },
+  {
+    "draft": 11.32,
+    "displacement": 66418.0
+  },
+  {
+    "draft": 11.33,
+    "displacement": 66481.0
+  },
+  {
+    "draft": 11.34,
+    "displacement": 66543.0
+  },
+  {
+    "draft": 11.35,
+    "displacement": 66606.0
+  },
+  {
+    "draft": 11.36,
+    "displacement": 66668.0
+  },
+  {
+    "draft": 11.37,
+    "displacement": 66731.0
+  },
+  {
+    "draft": 11.38,
+    "displacement": 66793.0
+  },
+  {
+    "draft": 11.39,
+    "displacement": 66856.0
+  },
+  {
+    "draft": 11.4,
+    "displacement": 66918.0
+  },
+  {
+    "draft": 11.41,
+    "displacement": 66981.0
+  },
+  {
+    "draft": 11.42,
+    "displacement": 67043.0
+  },
+  {
+    "draft": 11.43,
+    "displacement": 67106.0
+  },
+  {
+    "draft": 11.44,
+    "displacement": 67168.0
+  },
+  {
+    "draft": 11.45,
+    "displacement": 67231.0
+  },
+  {
+    "draft": 11.46,
+    "displacement": 67293.0
+  },
+  {
+    "draft": 11.47,
+    "displacement": 67356.0
+  },
+  {
+    "draft": 11.48,
+    "displacement": 67418.0
+  },
+  {
+    "draft": 11.49,
+    "displacement": 67481.0
+  },
+  {
+    "draft": 11.5,
+    "displacement": 67543.0
+  },
+  {
+    "draft": 11.51,
+    "displacement": 67606.0
+  },
+  {
+    "draft": 11.52,
+    "displacement": 67668.0
+  },
+  {
+    "draft": 11.53,
+    "displacement": 67730.0
+  },
+  {
+    "draft": 11.54,
+    "displacement": 67793.0
+  },
+  {
+    "draft": 11.55,
+    "displacement": 67855.0
+  },
+  {
+    "draft": 11.56,
+    "displacement": 67918.0
+  },
+  {
+    "draft": 11.57,
+    "displacement": 67980.0
+  },
+  {
+    "draft": 11.58,
+    "displacement": 68043.0
+  },
+  {
+    "draft": 11.59,
+    "displacement": 68105.0
+  },
+  {
+    "draft": 11.6,
+    "displacement": 68168.0
+  },
+  {
+    "draft": 11.61,
+    "displacement": 68230.0
+  },
+  {
+    "draft": 11.62,
+    "displacement": 68293.0
+  },
+  {
+    "draft": 11.63,
+    "displacement": 68355.0
+  },
+  {
+    "draft": 11.64,
+    "displacement": 68418.0
+  },
+  {
+    "draft": 11.65,
+    "displacement": 68480.0
+  },
+  {
+    "draft": 11.66,
+    "displacement": 68543.0
+  },
+  {
+    "draft": 11.67,
+    "displacement": 68605.0
+  },
+  {
+    "draft": 11.68,
+    "displacement": 68668.0
+  },
+  {
+    "draft": 11.69,
+    "displacement": 68730.0
+  },
+  {
+    "draft": 11.7,
+    "displacement": 68793.0
+  },
+  {
+    "draft": 11.71,
+    "displacement": 68855.0
+  },
+  {
+    "draft": 11.72,
+    "displacement": 68918.0
+  },
+  {
+    "draft": 11.73,
+    "displacement": 68980.0
+  },
+  {
+    "draft": 11.74,
+    "displacement": 69043.0
+  },
+  {
+    "draft": 11.75,
+    "displacement": 69105.0
+  },
+  {
+    "draft": 11.76,
+    "displacement": 69168.0
+  },
+  {
+    "draft": 11.77,
+    "displacement": 69230.0
+  },
+  {
+    "draft": 11.78,
+    "displacement": 69293.0
+  },
+  {
+    "draft": 11.79,
+    "displacement": 69355.0
+  },
+  {
+    "draft": 11.8,
+    "displacement": 69418.0
+  },
+  {
+    "draft": 11.81,
+    "displacement": 69480.0
+  },
+  {
+    "draft": 11.82,
+    "displacement": 69542.0
+  },
+  {
+    "draft": 11.83,
+    "displacement": 69605.0
+  },
+  {
+    "draft": 11.84,
+    "displacement": 69667.0
+  },
+  {
+    "draft": 11.85,
+    "displacement": 69730.0
+  },
+  {
+    "draft": 11.86,
+    "displacement": 69792.0
+  },
+  {
+    "draft": 11.87,
+    "displacement": 69855.0
+  },
+  {
+    "draft": 11.88,
+    "displacement": 69917.0
+  },
+  {
+    "draft": 11.89,
+    "displacement": 69980.0
+  },
+  {
+    "draft": 11.9,
+    "displacement": 70042.0
+  },
+  {
+    "draft": 11.91,
+    "displacement": 70105.0
+  },
+  {
+    "draft": 11.92,
+    "displacement": 70167.0
+  },
+  {
+    "draft": 11.93,
+    "displacement": 70230.0
+  },
+  {
+    "draft": 11.94,
+    "displacement": 70292.0
+  },
+  {
+    "draft": 11.95,
+    "displacement": 70355.0
+  },
+  {
+    "draft": 11.96,
+    "displacement": 70417.0
+  },
+  {
+    "draft": 11.97,
+    "displacement": 70480.0
+  },
+  {
+    "draft": 11.98,
+    "displacement": 70542.0
+  },
+  {
+    "draft": 11.99,
+    "displacement": 70605.0
+  },
+  {
+    "draft": 12.0,
+    "displacement": 70667.0
+  },
+  {
+    "draft": 12.01,
+    "displacement": 70731.0
+  },
+  {
+    "draft": 12.02,
+    "displacement": 70795.0
+  },
+  {
+    "draft": 12.03,
+    "displacement": 70859.0
+  },
+  {
+    "draft": 12.04,
+    "displacement": 70923.0
+  },
+  {
+    "draft": 12.05,
+    "displacement": 70987.0
+  },
+  {
+    "draft": 12.06,
+    "displacement": 71051.0
+  },
+  {
+    "draft": 12.07,
+    "displacement": 71115.0
+  },
+  {
+    "draft": 12.08,
+    "displacement": 71179.0
+  },
+  {
+    "draft": 12.09,
+    "displacement": 71243.0
+  },
+  {
+    "draft": 12.1,
+    "displacement": 71307.0
+  },
+  {
+    "draft": 12.11,
+    "displacement": 71371.0
+  },
+  {
+    "draft": 12.12,
+    "displacement": 71435.0
+  },
+  {
+    "draft": 12.13,
+    "displacement": 71499.0
+  },
+  {
+    "draft": 12.14,
+    "displacement": 71563.0
+  },
+  {
+    "draft": 12.15,
+    "displacement": 71627.0
+  },
+  {
+    "draft": 12.16,
+    "displacement": 71691.0
+  },
+  {
+    "draft": 12.17,
+    "displacement": 71755.0
+  },
+  {
+    "draft": 12.18,
+    "displacement": 71819.0
+  },
+  {
+    "draft": 12.19,
+    "displacement": 71883.0
+  },
+  {
+    "draft": 12.2,
+    "displacement": 71947.0
+  },
+  {
+    "draft": 12.21,
+    "displacement": 72011.0
+  },
+  {
+    "draft": 12.22,
+    "displacement": 72075.0
+  },
+  {
+    "draft": 12.23,
+    "displacement": 72139.0
+  },
+  {
+    "draft": 12.24,
+    "displacement": 72203.0
+  },
+  {
+    "draft": 12.25,
+    "displacement": 72267.0
+  },
+  {
+    "draft": 12.26,
+    "displacement": 72331.0
+  },
+  {
+    "draft": 12.27,
+    "displacement": 72395.0
+  },
+  {
+    "draft": 12.28,
+    "displacement": 72459.0
+  },
+  {
+    "draft": 12.29,
+    "displacement": 72523.0
+  },
+  {
+    "draft": 12.3,
+    "displacement": 72587.0
+  },
+  {
+    "draft": 12.31,
+    "displacement": 72651.0
+  },
+  {
+    "draft": 12.32,
+    "displacement": 72715.0
+  },
+  {
+    "draft": 12.33,
+    "displacement": 72779.0
+  },
+  {
+    "draft": 12.34,
+    "displacement": 72843.0
+  },
+  {
+    "draft": 12.35,
+    "displacement": 72907.0
+  },
+  {
+    "draft": 12.36,
+    "displacement": 72971.0
+  },
+  {
+    "draft": 12.37,
+    "displacement": 73035.0
+  },
+  {
+    "draft": 12.38,
+    "displacement": 73099.0
+  },
+  {
+    "draft": 12.39,
+    "displacement": 73163.0
+  },
+  {
+    "draft": 12.4,
+    "displacement": 73227.0
+  },
+  {
+    "draft": 12.41,
+    "displacement": 73291.0
+  },
+  {
+    "draft": 12.42,
+    "displacement": 73355.0
+  },
+  {
+    "draft": 12.43,
+    "displacement": 73419.0
+  },
+  {
+    "draft": 12.44,
+    "displacement": 73483.0
+  },
+  {
+    "draft": 12.45,
+    "displacement": 73547.0
+  },
+  {
+    "draft": 12.46,
+    "displacement": 73611.0
+  },
+  {
+    "draft": 12.47,
+    "displacement": 73675.0
+  },
+  {
+    "draft": 12.48,
+    "displacement": 73739.0
+  },
+  {
+    "draft": 12.49,
+    "displacement": 73803.0
+  },
+  {
+    "draft": 12.5,
+    "displacement": 73867.0
+  },
+  {
+    "draft": 12.5,
+    "displacement": 73837.0
+  },
+  {
+    "draft": 12.51,
+    "displacement": 73931.0
+  },
+  {
+    "draft": 12.52,
+    "displacement": 73995.0
+  },
+  {
+    "draft": 12.53,
+    "displacement": 74059.0
+  },
+  {
+    "draft": 12.54,
+    "displacement": 74123.0
+  },
+  {
+    "draft": 12.55,
+    "displacement": 74187.0
+  },
+  {
+    "draft": 12.56,
+    "displacement": 74251.0
+  },
+  {
+    "draft": 12.57,
+    "displacement": 74315.0
+  },
+  {
+    "draft": 12.58,
+    "displacement": 74379.0
+  },
+  {
+    "draft": 12.59,
+    "displacement": 74443.0
+  },
+  {
+    "draft": 12.6,
+    "displacement": 74507.0
+  },
+  {
+    "draft": 12.61,
+    "displacement": 74571.0
+  },
+  {
+    "draft": 12.62,
+    "displacement": 74635.0
+  },
+  {
+    "draft": 12.63,
+    "displacement": 74699.0
+  },
+  {
+    "draft": 12.64,
+    "displacement": 74763.0
+  },
+  {
+    "draft": 12.65,
+    "displacement": 74827.0
+  },
+  {
+    "draft": 12.66,
+    "displacement": 74891.0
+  },
+  {
+    "draft": 12.67,
+    "displacement": 74955.0
+  },
+  {
+    "draft": 12.68,
+    "displacement": 75019.0
+  },
+  {
+    "draft": 12.69,
+    "displacement": 75083.0
+  },
+  {
+    "draft": 12.7,
+    "displacement": 75147.0
+  },
+  {
+    "draft": 12.71,
+    "displacement": 75211.0
+  },
+  {
+    "draft": 12.72,
+    "displacement": 75275.0
+  },
+  {
+    "draft": 12.73,
+    "displacement": 75339.0
+  },
+  {
+    "draft": 12.74,
+    "displacement": 75403.0
+  },
+  {
+    "draft": 12.75,
+    "displacement": 75467.0
+  },
+  {
+    "draft": 12.76,
+    "displacement": 75531.0
+  },
+  {
+    "draft": 12.77,
+    "displacement": 75595.0
+  },
+  {
+    "draft": 12.78,
+    "displacement": 75659.0
+  },
+  {
+    "draft": 12.79,
+    "displacement": 75723.0
+  },
+  {
+    "draft": 12.8,
+    "displacement": 75787.0
+  },
+  {
+    "draft": 12.81,
+    "displacement": 75851.0
+  },
+  {
+    "draft": 12.82,
+    "displacement": 75915.0
+  },
+  {
+    "draft": 12.83,
+    "displacement": 75979.0
+  },
+  {
+    "draft": 12.84,
+    "displacement": 76043.0
+  },
+  {
+    "draft": 12.85,
+    "displacement": 76107.0
+  },
+  {
+    "draft": 12.86,
+    "displacement": 76171.0
+  },
+  {
+    "draft": 12.87,
+    "displacement": 76235.0
+  },
+  {
+    "draft": 12.88,
+    "displacement": 76299.0
+  },
+  {
+    "draft": 12.89,
+    "displacement": 76363.0
+  },
+  {
+    "draft": 12.9,
+    "displacement": 76427.0
+  },
+  {
+    "draft": 12.91,
+    "displacement": 76491.0
+  },
+  {
+    "draft": 12.92,
+    "displacement": 76555.0
+  },
+  {
+    "draft": 12.93,
+    "displacement": 76619.0
+  },
+  {
+    "draft": 12.94,
+    "displacement": 76683.0
+  },
+  {
+    "draft": 12.95,
+    "displacement": 76747.0
+  },
+  {
+    "draft": 12.96,
+    "displacement": 76811.0
+  },
+  {
+    "draft": 12.97,
+    "displacement": 76875.0
+  },
+  {
+    "draft": 12.98,
+    "displacement": 76939.0
+  },
+  {
+    "draft": 12.99,
+    "displacement": 77003.0
+  },
+  {
+    "draft": 13.0,
+    "displacement": 77067.0
+  },
+  {
+    "draft": 13.0,
+    "displacement": 77037.0
+  },
+  {
+    "draft": 13.01,
+    "displacement": 77131.0
+  },
+  {
+    "draft": 13.02,
+    "displacement": 77195.0
+  },
+  {
+    "draft": 13.03,
+    "displacement": 77259.0
+  },
+  {
+    "draft": 13.04,
+    "displacement": 77323.0
+  },
+  {
+    "draft": 13.05,
+    "displacement": 77387.0
+  },
+  {
+    "draft": 13.06,
+    "displacement": 77451.0
+  },
+  {
+    "draft": 13.07,
+    "displacement": 77515.0
+  },
+  {
+    "draft": 13.08,
+    "displacement": 77579.0
+  },
+  {
+    "draft": 13.09,
+    "displacement": 77643.0
+  },
+  {
+    "draft": 13.1,
+    "displacement": 77707.0
+  },
+  {
+    "draft": 13.11,
+    "displacement": 77771.0
+  },
+  {
+    "draft": 13.12,
+    "displacement": 77835.0
+  },
+  {
+    "draft": 13.13,
+    "displacement": 77899.0
+  },
+  {
+    "draft": 13.14,
+    "displacement": 77963.0
+  },
+  {
+    "draft": 13.15,
+    "displacement": 78027.0
+  },
+  {
+    "draft": 13.16,
+    "displacement": 78091.0
+  },
+  {
+    "draft": 13.17,
+    "displacement": 78155.0
+  },
+  {
+    "draft": 13.18,
+    "displacement": 78219.0
+  },
+  {
+    "draft": 13.19,
+    "displacement": 78283.0
+  },
+  {
+    "draft": 13.2,
+    "displacement": 78347.0
+  },
+  {
+    "draft": 13.21,
+    "displacement": 78411.0
+  },
+  {
+    "draft": 13.22,
+    "displacement": 78475.0
+  },
+  {
+    "draft": 13.23,
+    "displacement": 78539.0
+  },
+  {
+    "draft": 13.24,
+    "displacement": 78603.0
+  },
+  {
+    "draft": 13.25,
+    "displacement": 78667.0
+  },
+  {
+    "draft": 13.26,
+    "displacement": 78731.0
+  },
+  {
+    "draft": 13.27,
+    "displacement": 78795.0
+  },
+  {
+    "draft": 13.28,
+    "displacement": 78859.0
+  },
+  {
+    "draft": 13.29,
+    "displacement": 78923.0
+  },
+  {
+    "draft": 13.3,
+    "displacement": 78987.0
+  },
+  {
+    "draft": 13.31,
+    "displacement": 79051.0
+  },
+  {
+    "draft": 13.32,
+    "displacement": 79115.0
+  },
+  {
+    "draft": 13.33,
+    "displacement": 79179.0
+  },
+  {
+    "draft": 13.34,
+    "displacement": 79243.0
+  },
+  {
+    "draft": 13.35,
+    "displacement": 79307.0
+  },
+  {
+    "draft": 13.36,
+    "displacement": 79371.0
+  },
+  {
+    "draft": 13.37,
+    "displacement": 79435.0
+  },
+  {
+    "draft": 13.38,
+    "displacement": 79499.0
+  },
+  {
+    "draft": 13.39,
+    "displacement": 79563.0
+  },
+  {
+    "draft": 13.4,
+    "displacement": 79627.0
+  },
+  {
+    "draft": 13.41,
+    "displacement": 79691.0
+  },
+  {
+    "draft": 13.42,
+    "displacement": 79755.0
+  },
+  {
+    "draft": 13.43,
+    "displacement": 79819.0
+  },
+  {
+    "draft": 13.44,
+    "displacement": 79883.0
+  },
+  {
+    "draft": 13.45,
+    "displacement": 79947.0
+  },
+  {
+    "draft": 13.46,
+    "displacement": 80011.0
+  },
+  {
+    "draft": 13.47,
+    "displacement": 80075.0
+  },
+  {
+    "draft": 13.48,
+    "displacement": 80139.0
+  },
+  {
+    "draft": 13.49,
+    "displacement": 80203.0
+  },
+  {
+    "draft": 13.5,
+    "displacement": 80267.0
+  },
+  {
+    "draft": 13.5,
+    "displacement": 80237.0
+  },
+  {
+    "draft": 13.51,
+    "displacement": 80331.0
+  },
+  {
+    "draft": 13.52,
+    "displacement": 80395.0
+  },
+  {
+    "draft": 13.53,
+    "displacement": 80459.0
+  },
+  {
+    "draft": 13.54,
+    "displacement": 80523.0
+  },
+  {
+    "draft": 13.55,
+    "displacement": 80587.0
+  },
+  {
+    "draft": 13.56,
+    "displacement": 80651.0
+  },
+  {
+    "draft": 13.57,
+    "displacement": 80715.0
+  },
+  {
+    "draft": 13.58,
+    "displacement": 80779.0
+  },
+  {
+    "draft": 13.59,
+    "displacement": 80843.0
+  },
+  {
+    "draft": 13.6,
+    "displacement": 80907.0
+  },
+  {
+    "draft": 13.61,
+    "displacement": 80971.0
+  },
+  {
+    "draft": 13.62,
+    "displacement": 81035.0
+  },
+  {
+    "draft": 13.63,
+    "displacement": 81099.0
+  },
+  {
+    "draft": 13.64,
+    "displacement": 81163.0
+  },
+  {
+    "draft": 13.65,
+    "displacement": 81227.0
+  },
+  {
+    "draft": 13.66,
+    "displacement": 81291.0
+  },
+  {
+    "draft": 13.67,
+    "displacement": 81355.0
+  },
+  {
+    "draft": 13.68,
+    "displacement": 81419.0
+  },
+  {
+    "draft": 13.69,
+    "displacement": 81483.0
+  },
+  {
+    "draft": 13.7,
+    "displacement": 81547.0
+  },
+  {
+    "draft": 13.71,
+    "displacement": 81611.0
+  },
+  {
+    "draft": 13.72,
+    "displacement": 81675.0
+  },
+  {
+    "draft": 13.73,
+    "displacement": 81739.0
+  },
+  {
+    "draft": 13.74,
+    "displacement": 81803.0
+  },
+  {
+    "draft": 13.75,
+    "displacement": 81867.0
+  },
+  {
+    "draft": 13.76,
+    "displacement": 81931.0
+  },
+  {
+    "draft": 13.77,
+    "displacement": 81995.0
+  },
+  {
+    "draft": 13.78,
+    "displacement": 82059.0
+  },
+  {
+    "draft": 13.79,
+    "displacement": 82123.0
+  },
+  {
+    "draft": 13.8,
+    "displacement": 82187.0
+  },
+  {
+    "draft": 13.81,
+    "displacement": 82251.0
+  },
+  {
+    "draft": 13.82,
+    "displacement": 82315.0
+  },
+  {
+    "draft": 13.83,
+    "displacement": 82379.0
+  },
+  {
+    "draft": 13.84,
+    "displacement": 82443.0
+  },
+  {
+    "draft": 13.85,
+    "displacement": 82507.0
+  },
+  {
+    "draft": 13.86,
+    "displacement": 82571.0
+  },
+  {
+    "draft": 13.87,
+    "displacement": 82635.0
+  },
+  {
+    "draft": 13.88,
+    "displacement": 82699.0
+  },
+  {
+    "draft": 13.89,
+    "displacement": 82763.0
+  },
+  {
+    "draft": 13.9,
+    "displacement": 82827.0
+  },
+  {
+    "draft": 13.91,
+    "displacement": 82891.0
+  },
+  {
+    "draft": 13.92,
+    "displacement": 82955.0
+  },
+  {
+    "draft": 13.93,
+    "displacement": 83019.0
+  },
+  {
+    "draft": 13.94,
+    "displacement": 83083.0
+  },
+  {
+    "draft": 13.95,
+    "displacement": 83147.0
+  },
+  {
+    "draft": 13.96,
+    "displacement": 83211.0
+  },
+  {
+    "draft": 13.97,
+    "displacement": 83275.0
+  },
+  {
+    "draft": 13.98,
+    "displacement": 83339.0
+  },
+  {
+    "draft": 13.99,
+    "displacement": 83403.0
+  },
+  {
+    "draft": 14.0,
+    "displacement": 83467.0
+  }
+]
