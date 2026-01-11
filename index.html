@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Loadicator - Ship Stability Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Digital Loadicator</h1>
+            <p class="subtitle">Ship Stability Calculator</p>
+        </header>
+
+        <div class="input-section">
+            <h2>Input Parameters</h2>
+            <form id="loadicatorForm">
+                <div class="form-group">
+                    <label for="draft">Draft (m):</label>
+                    <input type="number" id="draft" name="draft" step="0.01" min="0" required>
+                    <span class="help-text">Enter the ship's draft in meters</span>
+                </div>
+
+                <div class="form-group">
+                    <label for="kg">KG - Vertical Centre of Gravity (m):</label>
+                    <input type="number" id="kg" name="kg" step="0.01" min="0" required>
+                    <span class="help-text">Enter the vertical center of gravity in meters above keel</span>
+                </div>
+
+                <button type="submit" class="calculate-btn">Calculate</button>
+            </form>
+        </div>
+
+        <div class="results-section" id="resultsSection" style="display: none;">
+            <div class="output-section">
+                <h2>Results</h2>
+                <div class="result-item">
+                    <span class="result-label">Displacement:</span>
+                    <span class="result-value" id="displacement">-</span>
+                </div>
+            </div>
+
+            <div class="gz-section">
+                <h2>GZ Curve</h2>
+                <div class="chart-container">
+                    <canvas id="gzChart"></canvas>
+                </div>
+            </div>
+
+            <div class="data-section">
+                <h2>GZ Data Points</h2>
+                <div class="table-container">
+                    <table id="gzDataTable">
+                        <thead>
+                            <tr>
+                                <th>Heel Angle (°)</th>
+                                <th>GZ (m)</th>
+                            </tr>
+                        </thead>
+                        <tbody id="gzDataBody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
