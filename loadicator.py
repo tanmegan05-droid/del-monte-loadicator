@@ -46,7 +46,7 @@ class ShipStability:
             Dictionary containing displacement, KB, and BM values
         """
         if draft < self.draft_table[0] or draft > self.draft_table[-1]:
-            raise ValueError(f"Draft must be between {self.draft_table[0]} and {self.draft_table[-1]} meters")
+            raise ValueError(f"Draft {draft}m is out of range. Must be between {self.draft_table[0]} and {self.draft_table[-1]} meters")
         
         displacement = np.interp(draft, self.draft_table, self.displacement_table)
         kb = np.interp(draft, self.draft_table, self.kb_table)
@@ -124,7 +124,7 @@ class ShipStability:
                 gz_values[i] = gm * np.sin(rad)
             else:
                 # For larger angles, use wall-sided formula approximation
-                # GZ = (GM + 0.5 * BM * tan²θ) * sinθ - 0.5 * (KB/B) * sin²θ
+                # GZ = (GM + 0.5 * BM * tan²(θ)) * sin(θ) - 0.5 * (KB/B) * sin²(θ)
                 bm = hydro_data['bm']
                 kb = hydro_data['kb']
                 
@@ -260,7 +260,12 @@ class ShipStability:
                         cell_text = table_data[row_idx][col_idx]
                         
                         # Header styling
-                        if row_idx == 0 or (row_idx == start_row and start_row > 0):
+                        if row_idx == 0:
+                            plt.text(x_pos, y_pos, table_data[0][col_idx],
+                                   fontsize=9, fontweight='bold',
+                                   ha='left', va='center')
+                        elif row_idx == start_row and start_row > 0:
+                            # Repeat header for new column section
                             plt.text(x_pos, y_pos, table_data[0][col_idx],
                                    fontsize=9, fontweight='bold',
                                    ha='left', va='center')
