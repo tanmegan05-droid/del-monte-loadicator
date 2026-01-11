@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import * as XLSX from 'xlsx';
 import { Line } from 'react-chartjs-2';
 import {
   Chart as ChartJS,
@@ -44,60 +43,21 @@ function App() {
 
   const loadExcelFiles = async () => {
     try {
-      // NOTE: This application uses xlsx@0.18.5 (latest free version on npm)
-      // Known vulnerabilities (ReDoS, Prototype Pollution) have limited impact here because:
-      // 1. Only pre-validated Excel files from public folder are loaded (not user uploads)
-      // 2. Files are static and trusted (part of application deployment)
-      // 3. Application runs client-side only with no server-side processing
-      
-      // Load Stability.xlsx
-      const stabilityResponse = await fetch(process.env.PUBLIC_URL + '/Stability.xlsx');
-      const stabilityArrayBuffer = await stabilityResponse.arrayBuffer();
-      const stabilityWorkbook = XLSX.read(stabilityArrayBuffer, { type: 'array' });
-      const stabilitySheet = stabilityWorkbook.Sheets[stabilityWorkbook.SheetNames[0]];
-      const stabilityJson = XLSX.utils.sheet_to_json(stabilitySheet, { header: 1 });
-      
-      // Parse stability data (Draft and Displacement)
-      const parsedStabilityData = stabilityJson
-        .slice(1) // Skip header
-        .filter(row => row[0] !== undefined && row[1] !== undefined)
-        .map(row => ({
-          draft: parseFloat(row[0]),
-          displacement: parseFloat(row[1])
-        }));
-      
-      setStabilityData(parsedStabilityData);
+      // Load stability data from JSON (converted from Stability.xlsx)
+      const stabilityResponse = await fetch(process.env.PUBLIC_URL + '/stability-data.json');
+      const stabilityData = await stabilityResponse.json();
+      setStabilityData(stabilityData);
 
-      // Load extracted_data 2 copy.xlsx (KN curve data)
-      const knResponse = await fetch(process.env.PUBLIC_URL + '/extracted_data 2 copy.xlsx');
-      const knArrayBuffer = await knResponse.arrayBuffer();
-      const knWorkbook = XLSX.read(knArrayBuffer, { type: 'array' });
-      const knSheet = knWorkbook.Sheets[knWorkbook.SheetNames[0]];
-      const knJson = XLSX.utils.sheet_to_json(knSheet, { header: 1 });
+      // Load KN curve data from JSON (converted from extracted_data 2 copy.xlsx)
+      const knResponse = await fetch(process.env.PUBLIC_URL + '/kn-curve-data.json');
+      const knData = await knResponse.json();
+      setKnData(knData);
       
-      // Parse KN data - header row contains heel angles, rows contain displacement and KN values
-      const headerRow = knJson[0];
-      const heelAngles = headerRow.slice(1).map(angle => {
-        // Extract numeric value from strings like "5°", "10°", etc.
-        const numStr = angle.toString().replace('°', '');
-        return parseFloat(numStr);
-      });
-      
-      const parsedKnData = knJson
-        .slice(1) // Skip header
-        .filter(row => row[0] !== undefined)
-        .map(row => {
-          const displacement = parseFloat(row[0]);
-          const knValues = row.slice(1).map(val => parseFloat(val));
-          return { displacement, heelAngles, knValues };
-        });
-      
-      setKnData({ heelAngles, data: parsedKnData });
       setLoading(false);
     } catch (error) {
-      console.error('Error loading Excel files:', error);
+      console.error('Error loading data files:', error);
       setLoading(false);
-      alert('Error loading data files. Please ensure the Excel files are in the public folder.');
+      alert('Error loading data files. Please ensure the JSON files are in the public folder.');
     }
   };
 
