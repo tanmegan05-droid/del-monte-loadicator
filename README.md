@@ -80,7 +80,7 @@ These can be modified in `script.js` for specific vessel calculations.
 ## Technical Details
 
 - **Built with:** HTML5, CSS3, JavaScript
-- **Charting:** Chart.js library
+- **Charting:** Native Canvas API for custom graph rendering
 - **No server required:** Runs entirely in the browser
 - **Mobile responsive:** Works on desktop, tablet, and mobile devices
 

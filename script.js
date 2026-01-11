@@ -38,7 +38,7 @@ class Loadicator {
         // V = volume of displacement
         
         const waterplaneArea = this.lengthBP * this.breadth * this.waterplaneCoefficientArea;
-        const momentOfInertia = (this.lengthBP * Math.pow(this.breadth, 3)) / 12 * this.waterplaneCoefficientArea;
+        const momentOfInertia = ((this.lengthBP * Math.pow(this.breadth, 3)) / 12) * this.waterplaneCoefficientArea;
         const volume = this.lengthBP * this.breadth * this.draft * this.blockCoefficient;
         
         const BM = momentOfInertia / volume;
@@ -111,8 +111,8 @@ document.getElementById('loadicatorForm').addEventListener('submit', function(e)
     const kg = parseFloat(document.getElementById('kg').value);
     
     // Validate inputs
-    if (isNaN(draft) || isNaN(kg) || draft <= 0 || kg <= 0) {
-        alert('Please enter valid positive numbers for draft and KG.');
+    if (isNaN(draft) || isNaN(kg) || draft <= 0 || kg < 0) {
+        alert('Please enter valid numbers: draft must be positive and KG must be non-negative.');
         return;
     }
     
